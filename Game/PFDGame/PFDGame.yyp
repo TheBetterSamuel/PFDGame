@@ -1,6 +1,10 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"scrFullscreen","path":"scripts/scrFullscreen/scrFullscreen.yy",},"order":0,},
+    {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},"order":0,},
+    {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},"order":0,},
+    {"id":{"name":"mainMenuBackground","path":"sprites/mainMenuBackground/mainMenuBackground.yy",},"order":0,},
+    {"id":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -15,7 +19,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
