@@ -20,6 +20,7 @@ if(menu_control)
 	{
 		menu_x_target = gui_width + 200;
 		menu_comitted = menu_cursor;
+		audio_sound_gain(bgm1,0,500);
 		menu_control = false; 
 	}
 }
