@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"8507e3ee-3d05-49f0-9151-b6eeb90cecc5","path":"sprites/mainMenuBackground/mainMenuBackground.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"8507e3ee-3d05-49f0-9151-b6eeb90cecc5","path":"sprites/mainMenuBackground/mainMenuBackground.yy",},"LayerId":{"name":"f596c6b5-2e30-49c6-8019-828e25bbdbb5","path":"sprites/mainMenuBackground/mainMenuBackground.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"mainMenuBackground","path":"sprites/mainMenuBackground/mainMenuBackground.yy",},"resourceVersion":"1.0","name":"8507e3ee-3d05-49f0-9151-b6eeb90cecc5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ea0e7d79-8d95-4854-b9eb-ae2830d2508c","path":"sprites/rBg1/rBg1.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ea0e7d79-8d95-4854-b9eb-ae2830d2508c","path":"sprites/rBg1/rBg1.yy",},"LayerId":{"name":"76997394-3e67-45a7-99dc-e6d58ca8d025","path":"sprites/rBg1/rBg1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"rBg1","path":"sprites/rBg1/rBg1.yy",},"resourceVersion":"1.0","name":"ea0e7d79-8d95-4854-b9eb-ae2830d2508c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"mainMenuBackground","path":"sprites/mainMenuBackground/mainMenuBackground.yy",},
+    "spriteId": {"name":"rBg1","path":"sprites/rBg1/rBg1.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ba832946-b61e-47dc-973d-944f3fe82e60","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"8507e3ee-3d05-49f0-9151-b6eeb90cecc5","path":"sprites/mainMenuBackground/mainMenuBackground.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c49dd4e1-e7ce-4618-b7fa-da92b9ca3567","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ea0e7d79-8d95-4854-b9eb-ae2830d2508c","path":"sprites/rBg1/rBg1.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"mainMenuBackground","path":"sprites/mainMenuBackground/mainMenuBackground.yy",},
+    "parent": {"name":"rBg1","path":"sprites/rBg1/rBg1.yy",},
     "resourceVersion": "1.3",
-    "name": "mainMenuBackground",
+    "name": "rBg1",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f596c6b5-2e30-49c6-8019-828e25bbdbb5","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"76997394-3e67-45a7-99dc-e6d58ca8d025","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "mainMenuBackground",
+  "name": "rBg1",
   "tags": [],
   "resourceType": "GMSprite",
 }
