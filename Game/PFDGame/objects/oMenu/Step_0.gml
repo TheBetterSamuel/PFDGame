@@ -7,12 +7,14 @@ if(menu_control)
 	if(keyboard_check_pressed(ord("W")) || keyboard_check_pressed(vk_up))
 	{
 		menu_cursor++;
+		audio_play_sound(sMenuClick1,10,false);
 		if(menu_cursor >= menu_items) menu_cursor = 0;
 	}
 	
 	if(keyboard_check_pressed(ord("S")) || keyboard_check_pressed(vk_down))
 	{
 		menu_cursor--;
+		audio_play_sound(sMenuClick1,10,false);
 		if(menu_cursor < 0) menu_cursor = 2;
 	}
 	
@@ -20,6 +22,7 @@ if(menu_control)
 	{
 		menu_x_target = gui_width + 200;
 		menu_comitted = menu_cursor;
+		audio_play_sound(sMenuClick2,10,false);
 		audio_sound_gain(bgm1,0,500);
 		menu_control = false; 
 	}

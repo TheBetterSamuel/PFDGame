@@ -1,10 +1,12 @@
 {
   "resources": [
     {"id":{"name":"scrFullscreen","path":"scripts/scrFullscreen/scrFullscreen.yy",},"order":0,},
+    {"id":{"name":"sMenuClick2","path":"sounds/sMenuClick2/sMenuClick2.yy",},"order":2,},
     {"id":{"name":"scrSlideTransition","path":"scripts/scrSlideTransition/scrSlideTransition.yy",},"order":1,},
     {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},"order":0,},
     {"id":{"name":"soundLibrary","path":"objects/soundLibrary/soundLibrary.yy",},"order":2,},
     {"id":{"name":"rBg1","path":"sprites/rBg1/rBg1.yy",},"order":0,},
+    {"id":{"name":"sMenuClick1","path":"sounds/sMenuClick1/sMenuClick1.yy",},"order":1,},
     {"id":{"name":"oMenuTitle","path":"objects/oMenuTitle/oMenuTitle.yy",},"order":3,},
     {"id":{"name":"bgm1","path":"sounds/bgm1/bgm1.yy",},"order":0,},
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},"order":0,},
