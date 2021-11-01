@@ -1,10 +1,10 @@
 /// @description calling vaiable
 
-line1 = "Emissions";
-line2 = "The footprints we should not leave";
+line1 = "EMISSIONS";
+line2 = "THE FOOTPRINTS WE SHOULD NOT LEAVE";
 
 textMargin = 30;
-outlineMargin = 5;
+outlineMargin = 7;
 
 line_x = x + textMargin;
 line1_y = y + textMargin;
