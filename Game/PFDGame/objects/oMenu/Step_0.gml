@@ -23,7 +23,10 @@ if(menu_control)
 		menu_x_target = gui_width + 200;
 		menu_comitted = menu_cursor;
 		audio_play_sound(sMenuClick2,10,false);
-		audio_sound_gain(bgm1,0,500);
+		if(menu_comitted == 0)
+		{
+			audio_sound_gain(bgm1,0,500);
+		}
 		menu_control = false; 
 	}
 }
@@ -32,6 +35,7 @@ if ((menu_x > gui_width + 150) && (menu_comitted != -1))
 {
 	switch(menu_comitted)
 	{
+		case 1: scrSlideTransition(TRANS_MODE.NEXT); break;
 		case 0: default: game_end(); break;
 	}
 }
