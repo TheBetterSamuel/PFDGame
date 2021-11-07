@@ -8,6 +8,9 @@
     {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},"order":0,},
     {"id":{"name":"soundLibrary","path":"objects/soundLibrary/soundLibrary.yy",},"order":2,},
     {"id":{"name":"rBg1","path":"sprites/rBg1/rBg1.yy",},"order":0,},
+    {"id":{"name":"rBg2","path":"sprites/rBg2/rBg2.yy",},"order":1,},
+    {"id":{"name":"rDialogue1","path":"rooms/rDialogue1/rDialogue1.yy",},"order":2,},
+    {"id":{"name":"dialogueBox1","path":"sprites/dialogueBox1/dialogueBox1.yy",},"order":2,},
     {"id":{"name":"sMenuClick1","path":"sounds/sMenuClick1/sMenuClick1.yy",},"order":1,},
     {"id":{"name":"oMenuTitle","path":"objects/oMenuTitle/oMenuTitle.yy",},"order":3,},
     {"id":{"name":"bgm1","path":"sounds/bgm1/bgm1.yy",},"order":0,},
@@ -31,6 +34,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rMenu","path":"rooms/rMenu/rMenu.yy",},},
     {"roomId":{"name":"rCredits","path":"rooms/rCredits/rCredits.yy",},},
+    {"roomId":{"name":"rDialogue1","path":"rooms/rDialogue1/rDialogue1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
