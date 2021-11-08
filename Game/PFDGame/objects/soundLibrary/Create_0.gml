@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description plays music at the start of the game
 // You can write your code in this editor
 
 audio_play_sound(bgm1,1000,true);

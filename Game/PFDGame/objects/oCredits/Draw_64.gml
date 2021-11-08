@@ -36,10 +36,22 @@ draw_set_halign(fa_left);
 for(i = 0; i < devTextSize; i++)
 {
 	draw_set_color(c_black);
-	draw_text((2 * gui_margin),((3 * gui_margin) + (i * lineHeight)) + 3, devTexts[i]);
-	draw_text((2 * gui_margin),((3 * gui_margin) + (i * lineHeight)) - 3, devTexts[i]);
-	draw_text((2 * gui_margin) + 3,((3 * gui_margin) + (i * lineHeight)), devTexts[i]);
-	draw_text((2 * gui_margin) - 3,((3 * gui_margin) + (i * lineHeight)), devTexts[i]);
+	draw_text((2 * gui_margin),(devOffest + (i * lineHeight)) + 3, devTexts[i]);
+	draw_text((2 * gui_margin),(devOffest + (i * lineHeight)) - 3, devTexts[i]);
+	draw_text((2 * gui_margin) + 3,(devOffest + (i * lineHeight)), devTexts[i]);
+	draw_text((2 * gui_margin) - 3,(devOffest + (i * lineHeight)), devTexts[i]);
 	draw_set_color(c_white);
-	draw_text((2 * gui_margin),((3 * gui_margin) + (i * lineHeight)), devTexts[i]);
+	draw_text((2 * gui_margin),(devOffest + (i * lineHeight)), devTexts[i]);
+}
+
+//draws the res credits
+for(i = 0; i < resTextSize; i++)
+{
+	draw_set_color(c_black);
+	draw_text((2 * gui_margin),(resOffest + (i * lineHeight)) + 3, resTexts[i]);
+	draw_text((2 * gui_margin),(resOffest + (i * lineHeight)) - 3, resTexts[i]);
+	draw_text((2 * gui_margin) + 3,(resOffest + (i * lineHeight)), resTexts[i]);
+	draw_text((2 * gui_margin) - 3,(resOffest + (i * lineHeight)), resTexts[i]);
+	draw_set_color(c_white);
+	draw_text((2 * gui_margin),(resOffest + (i * lineHeight)), resTexts[i]);
 }

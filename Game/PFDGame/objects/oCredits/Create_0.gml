@@ -16,3 +16,10 @@ devTexts[2] = "DARYL"
 devTexts[3] = "MARCUS"
 devTexts[4] = "MYRON"
 devTextSize = array_length_1d(devTexts);
+devOffest = 7 * lineHeight;
+
+resTexts[0] = "SONGS PROVIDED BY DOVA SYNDROME";
+resTexts[1] = "SOUND EFFECTS PROVIDED BY ZAPSPLAT";
+resTexts[2] = "FONTS FROM DEFAULT AND FROM DAFONT";
+resOffest = 13 * lineHeight;
+resTextSize = array_length_1d(resTexts);

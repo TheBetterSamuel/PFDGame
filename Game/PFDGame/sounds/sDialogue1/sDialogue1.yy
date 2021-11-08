@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "bgm1.mp3",
-  "duration": 78.168,
+  "soundFile": "sDialogue1.mp3",
+  "duration": 70.191,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "bgm1",
+  "name": "sDialogue1",
   "tags": [],
   "resourceType": "GMSound",
 }
