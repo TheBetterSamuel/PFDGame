@@ -6,7 +6,8 @@ draw_set_color(c_gray);
 draw_set_alpha(0.6);
 draw_rectangle((0 + gui_margin),(0 + gui_margin),(gui_width - gui_margin),(gui_height - gui_margin),false);
 
-draw_set_font(fMenu2);
+//Selecting fonts
+draw_set_font(fMenu);
 
 //draws the title
 draw_set_halign(fa_center);
