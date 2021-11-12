@@ -8,5 +8,5 @@ boxMArgin = 50;
 barLength = 400;
 barHeight = 40;
 
-lineHeight = font_get_size(fMenu2) * 1.5;
+lineHeight = font_get_size(fMenu2) * 2;
 txt = "Carbon Level: " + string(currentEmissions) + " / " + string(maxEmissions);

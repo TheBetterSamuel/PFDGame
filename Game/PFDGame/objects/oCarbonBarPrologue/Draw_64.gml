@@ -24,4 +24,4 @@ draw_set_alpha(0.6);
 draw_rectangle((box_X - boxMArgin),(boxMArgin + lineHeight),(box_X - boxMArgin - barLength),(boxMArgin + lineHeight + barHeight),false);
 draw_set_color(c_black);
 draw_set_alpha(1);
-draw_rectangle((box_X - boxMArgin),(boxMArgin + lineHeight),(box_X - boxMArgin - barLength),(boxMArgin + lineHeight + barHeight),true);
+draw_rectangle((box_X - boxMArgin) + 1,(boxMArgin + lineHeight) - 1,(box_X - boxMArgin - barLength) - 1,(boxMArgin + lineHeight + barHeight) + 1,true);

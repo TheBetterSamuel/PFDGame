@@ -7,7 +7,7 @@ draw_set_alpha(0.6);
 draw_rectangle((0 + gui_margin),(0 + gui_margin),(gui_width - gui_margin),(gui_height - gui_margin),false);
 
 //Selecting fonts
-draw_set_font(fMenu);
+draw_set_font(fMenu2);
 
 //draws the title
 draw_set_halign(fa_center);
