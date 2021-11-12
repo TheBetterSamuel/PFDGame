@@ -10,6 +10,6 @@ line_x = x + textMargin;
 line1_y = y + textMargin;
 
 enlarge = 3;
-lineHeight = (font_get_size(fMenu) * enlarge);
+lineHeight = (font_get_size(fMenu) * (enlarge * 1.5));
 
 line2_y = y + (textMargin * 2) + lineHeight;

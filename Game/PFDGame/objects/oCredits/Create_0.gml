@@ -8,7 +8,7 @@ title = "CREDITS"
 
 bottomText = "PRESS ESCAPE TO RETURN TO THE MAIN MENU"
 
-lineHeight = font_get_size(fMenu2) * 1.5
+lineHeight = font_get_size(fMenu2) * 1.5;
 
 devTexts[0] = "DEVELOPERS: "
 devTexts[1] = "SAMUEL"
