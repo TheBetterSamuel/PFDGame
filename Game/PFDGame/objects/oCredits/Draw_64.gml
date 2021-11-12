@@ -30,7 +30,7 @@ draw_text((gui_width / 2) - 5, (gui_height - (2 * gui_margin)), bottomText);
 draw_text((gui_width / 2), (gui_height - (2 * gui_margin)) + 5, bottomText);
 draw_text((gui_width / 2), (gui_height - (2 * gui_margin)) - 5, bottomText);
 draw_set_color(c_white);
-draw_text_transformed((gui_width / 2), (gui_height - (2 * gui_margin)), bottomText, 1.5, 1.5, 0);
+draw_text((gui_width / 2), (gui_height - (2 * gui_margin)), bottomText);
 
 //draws the first credits section: Developers
 draw_set_halign(fa_left);

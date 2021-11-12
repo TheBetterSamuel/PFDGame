@@ -10,16 +10,16 @@ bottomText = "PRESS ESCAPE TO RETURN TO THE MAIN MENU"
 
 lineHeight = font_get_size(fMenu2) * 1.5;
 
-devTexts[0] = "DEVELOPERS: "
-devTexts[1] = "SAMUEL"
-devTexts[2] = "DARYL"
-devTexts[3] = "MARCUS"
-devTexts[4] = "MYRON"
+devTexts[0] = "Developers: "
+devTexts[1] = "Samuel"
+devTexts[2] = "Daryl"
+devTexts[3] = "Marcus"
+devTexts[4] = "Myron"
 devTextSize = array_length_1d(devTexts);
 devOffest = 7 * lineHeight;
 
-resTexts[0] = "MUSIC PROVIDED BY DOVA SYNDROME";
-resTexts[1] = "SOUND EFFECTS PROVIDED BY ZAPSPLAT";
-resTexts[2] = "FONTS FROM DEFAULT AND FROM DAFONT";
+resTexts[0] = "Music Provided by Dova Syndrome";
+resTexts[1] = "Sound Effects provided by Zapsplat";
+resTexts[2] = "Fonts from dafont and default";
 resOffest = 13 * lineHeight;
 resTextSize = array_length_1d(resTexts);
