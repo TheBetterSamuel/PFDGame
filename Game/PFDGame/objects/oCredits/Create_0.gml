@@ -13,16 +13,17 @@ bottomText = "PRESS ESCAPE TO RETURN TO THE MAIN MENU"
 lineHeight = font_get_size(fCredits) * 1.5;
 
 devTexts[0] = "Developers: "
-devTexts[1] = "Samuel"
-devTexts[2] = "Daryl"
-devTexts[3] = "Marcus"
-devTexts[4] = "Myron"
+devTexts[1] = "Samuel Kwan"
+devTexts[2] = "Daryl Chong Teck Yuan"
+devTexts[3] = "Marcus Hon"
+devTexts[4] = "Myron Thiang"
 devTextSize = array_length_1d(devTexts);
 devOffest = 300;
 
-resTexts[0] = "Music Provided by Dova Syndrome";
-resTexts[1] = "Artists: POLARIS PLUS, んぃん"
-resTexts[2] = "Sound Effects provided by Zapsplat";
-resTexts[3] = "Fonts from fontspace reated by daredemofont and from Google Fonts";
+resTexts[0] = "Music Provided by DOVA-SYNDROME";
+resTexts[1] = "Artists: POLARIS PLUS, KK, んぃん(NiN)";
+resTexts[2] = ""; //line break
+resTexts[3] = "Sound Effects provided by Zapsplat";
+resTexts[4] = "Fonts sourced from dafont, fontspace created by daredemofont and Google Fonts";
 resOffest = 600;
 resTextSize = array_length_1d(resTexts);

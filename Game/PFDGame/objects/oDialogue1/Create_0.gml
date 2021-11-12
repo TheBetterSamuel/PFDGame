@@ -5,15 +5,23 @@ audio_play_sound(sDialogue1,1000,true);
 audio_sound_gain(sDialogue1,0.01,0);
 audio_sound_gain(sDialogue1,0.4,1);
 
-dialogues[0] = "This world... this shouldn't be the world we live in...";
-dialogues[1] = "The sky is never blue, the stench of the toxic fumes fill the air. Dead and dying insects are strewn all over the road.";
-dialogues[2] = "What does a tree even look like? It's been way too long since I've seen a leaf, let alone a tree.";
-dialogues[3] = "The heat is unbearable. Apparently, we crossed the 40 degree mark today, not exactly an achievement to brag about, is it?";
-dialogues[4] = "Getting sick of this cursed world. What happened to the vast forests? The only jungles left are made of concrete and steel.";
-dialogues[5] = "Too late now, our earth is beyong hope. I wouldn't call this a planet anymore...";
-dialogues[6] = "*cough* Guess I opened my mouth too much *cough*";
-dialogues[7] = "Anyways. *cough* if anyone hears my monologue, *cough*, Please I beg you...";
-dialogues[8] = "Save this planet, before it's too late...";
+dialogues[0] = "'This world... ’’ it's not ’’ habitable.' ";
+dialogues[1] = "'Not ’’’ a world like this....' ";
+dialogues[2] = "'The sky ’’ an endless ’ canvas of gray.. ’’, the stench ’ of fumes ’’ permeating the air, choking me ’ at every chance..' ";
+dialogues[3] = "'What does a ’’ tree even look like..? It's been ’’’ so long since I've seen a ’ leaf, yet alone a tree...’’' ";
+dialogues[4] = "'Only forests ’ still around ’’’ are ones of concrete and steel.' ";
+dialogues[5] = "'Another ’’’ scorching day today.. Heard we hit ’’ the 40 degree celsius mark the other ’’’ day.. Not exactly a brag ’’ worthy achievement is it..?' ";
+dialogues[6] = "'Even just walking, ’ makes me feel like passing out.. It's so ’’ unbearably hot...' ";
+dialogues[7] = "'The endless advancement ’’ of sweat, seeping out of your pores is but an ’’’ everyday occurrence here.' ";
+dialogues[8] = "'I'm sick..... ’’ of this place This...’ planet..' ";
+dialogues[9] = "'Well... If you can still ’’’ call it that...' ";
+dialogues[10] = "'Ever since ’’’ that day... I've been stuck ’ in a spiral of ’’ regret..' ";
+dialogues[11] = "'*cough* *cough* I've spent too long ’’’ without the mask! *cough* *hack*' ";
+dialogues[12] = "'If.. *cough* *cough* you ’’’ can hear me *cough* Please! ’’ I beg of you!!' ";
+dialogues[13] = "’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’";
+dialogues[14] = "'You still.. ’’ have a ’’’ chance!' ";
+dialogues[15] = "'Before... ’’’ It's too... ’’’’ late!' ";
+dialogues[16] = "’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’";
 
 dia = array_length(dialogues);
 
