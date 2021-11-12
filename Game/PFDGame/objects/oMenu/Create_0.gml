@@ -9,7 +9,7 @@ menu_y = gui_height - gui_margin;
 menu_x_target = gui_width - 100;
 menu_speed = 25;
 menu_font = fMenu;
-menu_itemheight = font_get_size(fMenu) * 1.5;
+menu_itemheight = font_get_size(fMenu);
 menu_comitted = -1;
 menu_control = true;
 

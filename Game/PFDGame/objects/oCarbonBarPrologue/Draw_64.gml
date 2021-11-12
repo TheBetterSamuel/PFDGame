@@ -12,10 +12,10 @@ draw_set_halign(fa_right);
 draw_set_valign(fa_top);
 draw_set_font(fMenu2);
 draw_set_color(c_black);
-draw_text((box_X - boxMArgin) + 5,(boxMArgin),txt);
-draw_text((box_X - boxMArgin) - 5,(boxMArgin),txt);
-draw_text((box_X - boxMArgin),(boxMArgin) + 5,txt);
-draw_text((box_X - boxMArgin),(boxMArgin) - 5,txt);
+draw_text((box_X - boxMArgin) + 3,(boxMArgin),txt);
+draw_text((box_X - boxMArgin) - 3,(boxMArgin),txt);
+draw_text((box_X - boxMArgin),(boxMArgin) + 3,txt);
+draw_text((box_X - boxMArgin),(boxMArgin) - 3,txt);
 draw_set_color(c_white);
 draw_text((box_X - boxMArgin),(boxMArgin),txt);
 

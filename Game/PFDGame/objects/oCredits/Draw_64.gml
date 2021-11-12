@@ -7,7 +7,7 @@ draw_set_alpha(0.6);
 draw_rectangle((0 + gui_margin),(0 + gui_margin),(gui_width - gui_margin),(gui_height - gui_margin),false);
 
 //Selecting fonts
-draw_set_font(fMenu2);
+draw_set_font(fCredits);
 
 //draws the title
 draw_set_halign(fa_center);
@@ -25,10 +25,10 @@ draw_text_transformed((gui_width / 2), (2 * gui_margin), title, 1.5, 1.5, 0);
 draw_set_halign(fa_center);
 draw_set_valign(fa_bottom);
 draw_set_color(c_black);
-draw_text((gui_width / 2) + 5, (gui_height - (2 * gui_margin)), bottomText);
-draw_text((gui_width / 2) - 5, (gui_height - (2 * gui_margin)), bottomText);
-draw_text((gui_width / 2), (gui_height - (2 * gui_margin)) + 5, bottomText);
-draw_text((gui_width / 2), (gui_height - (2 * gui_margin)) - 5, bottomText);
+draw_text((gui_width / 2) + 3, (gui_height - (2 * gui_margin)), bottomText);
+draw_text((gui_width / 2) - 3, (gui_height - (2 * gui_margin)), bottomText);
+draw_text((gui_width / 2), (gui_height - (2 * gui_margin)) + 3, bottomText);
+draw_text((gui_width / 2), (gui_height - (2 * gui_margin)) - 3, bottomText);
 draw_set_color(c_white);
 draw_text((gui_width / 2), (gui_height - (2 * gui_margin)), bottomText);
 
