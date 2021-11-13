@@ -9,6 +9,7 @@
     {"id":{"name":"soundLibrary","path":"objects/soundLibrary/soundLibrary.yy",},"order":2,},
     {"id":{"name":"rBg1","path":"sprites/rBg1/rBg1.yy",},"order":0,},
     {"id":{"name":"rBg2","path":"sprites/rBg2/rBg2.yy",},"order":1,},
+    {"id":{"name":"oD1MorningDialogue","path":"objects/oD1MorningDialogue/oD1MorningDialogue.yy",},"order":8,},
     {"id":{"name":"fDialogue","path":"fonts/fDialogue/fDialogue.yy",},"order":2,},
     {"id":{"name":"oCarbonBarPrologue","path":"objects/oCarbonBarPrologue/oCarbonBarPrologue.yy",},"order":7,},
     {"id":{"name":"rDialogue1","path":"rooms/rDialogue1/rDialogue1.yy",},"order":2,},
