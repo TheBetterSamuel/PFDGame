@@ -1,27 +1,34 @@
 /// @description assign variables
-// starts playing new music
 
-audio_play_sound(sDialogue1,1000,true);
-audio_sound_gain(sDialogue1,0.01,0);
-audio_sound_gain(sDialogue1,0.4,1);
+/////////////////////////////////////////////Can we play alarm sound for a while? Samuel.
 
-dialogues[0] = "'This world... ’’ it's not ’’ habitable.' ";
-dialogues[1] = "'Not ’’’ a world like this....' ";
-dialogues[2] = "'The sky ’’ an endless ’ canvas of gray.. ’’, the stench ’ of fumes ’’ permeating the air, choking me, ’ at every chance..' ";
-dialogues[3] = "'What does a ’’ tree even look like..? It's been ’’’ so long since I've seen a ’ leaf, yet alone a tree...’’' ";
-dialogues[4] = "'Only forests ’ still around ’’’ are ones of concrete and steel.' ";
-dialogues[5] = "'Another ’’’ scorching day today.. Heard we hit ’’ the 40 degree celsius mark the other ’’’ day.. Not exactly a brag ’’ worthy achievement is it..?' ";
-dialogues[6] = "'Even just walking, ’ makes me feel like passing out.. It's so ’’ unbearably hot...' ";
-dialogues[7] = "'The endless advancement ’’ of sweat, seeping out of your pores is but an ’’’ everyday occurrence here.' ";
-dialogues[8] = "'I'm sick..... ’’ of this place.. This...’ planet..' ";
-dialogues[9] = "'Well... If you can still ’’’ call it that...' ";
-dialogues[10] = "'Ever since ’’’ that day... I've been stuck ’ in a spiral of ’’ regret..' ";
-dialogues[11] = "'*cough* *cough* I've spent too long ’’’ without the mask! *cough* *hack*' ";
-dialogues[12] = "'If.. *cough* *cough* IF YOU ’’’ CAN HEAR ME *cough* PLEASE! ’’ I BEG OF YOU!!' ";
-dialogues[13] = "’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’";
-dialogues[14] = "'YOU STILL.. ’’ have.. a.. ’’’ chance!' ";
-dialogues[15] = "'Before... ’’’ It's too... ’’’’ late!' ";
-dialogues[16] = "’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’’";
+audio_play_sound(sMorningSounds,1000,true);
+audio_sound_gain(sMorningSounds,0.01,0);
+audio_sound_gain(sMorningSounds,0.45,1);
+
+dialogues[0] = "- October 30th 2047, 7:00 AM - ";
+dialogues[1] = "!!!!!!!!!!!!!!! ";
+dialogues[2] = "'Just.. just a dream huh...' ";
+dialogues[3] = "I wake up to a room. Just your average teenager bedroom. ";
+dialogues[4] = "In my presence is a single bed, next to a desk with my studying supplies and a bookcase filled with manga, light novels and a couple containers. ";
+dialogues[5] = "A room I am most used to. ";
+dialogues[6] = "It was a bright and sunny morning, a familiar sight as a student on a weekday. ";
+dialogues[7] = "However.. something felt different.. today.. ";
+dialogues[8] = "'Ah! My hand. Punched the bed frame full force. Oww.. Hope I didn't break anything.' ";
+dialogues[9] = "'Definitely going to leave a mark, damn.' ";
+dialogues[10] = "'Still though, that felt so real.. Haven't had a dream like that in a while..' ";
+dialogues[11] = "'*Yaaawwwwwnnnnn*' ";
+dialogues[12] = "'What time is it?..' ";
+dialogues[13] = "It is currently seven in the morning, my typical wake up time is seven-fifteen usually, so it was a little earlier than what I am used to. ";
+dialogues[14] = "'Seven eh? Little bit early but I guess I should get up. Fall back asleep again and I'll probably stay down.' ";
+dialogues[15] = "As I had that though, I pondered upon the dream that I had just now. ";
+dialogues[16] = "It had been a long time since I had experienced such a surreal dream, it had felt so real, like it really happened at one point or another... ";
+dialogues[17] = "But the longer I pondered about it, the less I remember from the dream, all I remember was that it was filled with and intense feeling of regret. ";
+dialogues[18] = "'What was it about again..?' ";
+dialogues[19] = "'Well, no point trying so hard to remember a random dream..' ";
+dialogues[20] = "'Guess I should wash up and get changed.' ";
+dialogues[21] = "I spend a few more minutes laying motionlessly in bed, but eventually get up and head to the bathroom to wash up. ";
+dialogues[22] = "- 15 minutes later - ";
 
 dia = array_length(dialogues);
 

@@ -17,6 +17,7 @@
     {"id":{"name":"rDialogue1","path":"rooms/rDialogue1/rDialogue1.yy",},"order":2,},
     {"id":{"name":"dialogueBox1","path":"sprites/dialogueBox1/dialogueBox1.yy",},"order":2,},
     {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},"order":3,},
+    {"id":{"name":"sMorningSounds","path":"sounds/sMorningSounds/sMorningSounds.yy",},"order":4,},
     {"id":{"name":"sMenuClick1","path":"sounds/sMenuClick1/sMenuClick1.yy",},"order":1,},
     {"id":{"name":"oMenuTitle","path":"objects/oMenuTitle/oMenuTitle.yy",},"order":3,},
     {"id":{"name":"bgm1","path":"sounds/bgm1/bgm1.yy",},"order":0,},
