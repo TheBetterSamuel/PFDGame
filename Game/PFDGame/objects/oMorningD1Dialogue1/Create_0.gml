@@ -23,12 +23,12 @@ dialogues[13] = "It is currently seven in the morning, my typical wake up time i
 dialogues[14] = "'Seven eh? Little bit early but I guess I should get up. Fall back asleep again and I'll probably stay down.' ";
 dialogues[15] = "As I had that though, I pondered upon the dream that I had just now. ";
 dialogues[16] = "It had been a long time since I had experienced such a surreal dream, it had felt so real, like it really happened at one point or another... ";
-dialogues[17] = "But the longer I pondered about it, the less I remember from the dream, all I remember was that it was filled with and intense feeling of regret. ";
+dialogues[17] = "But the longer I pondered about it, the less I remember from the dream, all I remember was that it was filled with an intense feeling of regret. ";
 dialogues[18] = "'What was it about again..?' ";
 dialogues[19] = "'Well, no point trying so hard to remember a random dream..' ";
 dialogues[20] = "'Guess I should wash up and get changed.' ";
 dialogues[21] = "I spend a few more minutes laying motionlessly in bed, but eventually get up and head to the bathroom to wash up. ";
-dialogues[22] = "- 15 minutes later - ";
+dialogues[22] = "- 13 minutes later - ";
 
 dia = array_length(dialogues);
 
