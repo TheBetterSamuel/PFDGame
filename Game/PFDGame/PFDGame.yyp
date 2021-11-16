@@ -26,6 +26,7 @@
     {"id":{"name":"rBg5","path":"sprites/rBg5/rBg5.yy",},"order":5,},
     {"id":{"name":"oMorningD1Dialogue3","path":"objects/oMorningD1Dialogue3/oMorningD1Dialogue3.yy",},"order":10,},
     {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},"order":3,},
+    {"id":{"name":"oSelectionTemplate","path":"objects/oSelectionTemplate/oSelectionTemplate.yy",},"order":12,},
     {"id":{"name":"sDailyMorningAfternoonBgm","path":"sounds/sDailyMorningAfternoonBgm/sDailyMorningAfternoonBgm.yy",},"order":5,},
     {"id":{"name":"sMorningSounds","path":"sounds/sMorningSounds/sMorningSounds.yy",},"order":4,},
     {"id":{"name":"sMenuClick1","path":"sounds/sMenuClick1/sMenuClick1.yy",},"order":1,},
