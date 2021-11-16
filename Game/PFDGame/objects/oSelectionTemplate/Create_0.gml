@@ -2,9 +2,9 @@
 
 //change to set texts
 mainText = "Enter question or situation here";
-options[2] = "option 1";
-options[1] = "Option 2";
-options[0] = "Option 3";
+options[2] = "Travel by bike";
+options[1] = "Travel by public transportation";
+options[0] = "Travel by taxi";
 option_size = array_length_1d(options);
 
 //sets color of buttons
