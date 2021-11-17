@@ -1,6 +1,6 @@
 /// @description assign variables
 
-char_name = "Keisuke";
+char_name = "";
 
 dialogues[0] = "- October 30th 2047, 7:30 AM - ";
 dialogues[1] = "After exiting the house, I lock the door and proceed out the gate. ";

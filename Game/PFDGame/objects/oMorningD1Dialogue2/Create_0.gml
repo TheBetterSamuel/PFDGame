@@ -5,7 +5,7 @@ audio_play_sound(sDailyMorningAfternoonBgm,1000,true);
 audio_sound_gain(sDailyMorningAfternoonBgm,0.01,0);
 audio_sound_gain(sDailyMorningAfternoonBgm,0.6,1);
 
-char_name = "Keisuke";
+char_name = "";
 
 dialogues[0] = "- October 30th 2047, 7:28 AM - ";
 dialogues[1] = "After freshening myself up for the day, I grabbed everything I needed for the day and headed to the living room. ";
