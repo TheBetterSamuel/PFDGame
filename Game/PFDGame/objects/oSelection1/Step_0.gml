@@ -37,14 +37,22 @@ if (option_comitted != -1)
 		case 1: 
 		{
 			//enter code for option 2
-			oCarbonMeterStory.currentEmissions += 5;
+			if(addCarbon)
+			{
+				oCarbonMeterStory.currentEmissions += 5;
+				addCarbon = false;
+			}
 			scrSlideTransition(TRANS_MODE.GOTO, rMenu);
 			break;
 		}
 		case 0: 
 		{
 			//enter code for option 3
-			oCarbonMeterStory.currentEmissions += 15;
+			if(addCarbon)
+			{
+				oCarbonMeterStory.currentEmissions += 15;
+				addCarbon = false;
+			}
 			scrSlideTransition(TRANS_MODE.GOTO, rMenu);
 			break;
 		}

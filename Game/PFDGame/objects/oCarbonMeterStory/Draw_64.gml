@@ -1,12 +1,8 @@
 /// @description draws the carbon emission level on the screen
-if(currentEmissions > 75)
-{
-	var col = c_red;
-}
-else
-{
-	var col = c_green;
-}
+
+
+
+txt = "Carbon Level: " + string(currentEmissions);
 
 draw_set_halign(fa_right);
 draw_set_valign(fa_top);

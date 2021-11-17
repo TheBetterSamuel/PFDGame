@@ -26,5 +26,7 @@ option_control = true;
 option_cursor = 2;
 lineHeight = font_get_size(fMenu) * 1.5;
 
+addCarbon = true;
+
 option_y = gui_height - (5 * rect_height);
 option_x = (gui_height / 2) + 430;
