@@ -1,0 +1,1 @@
+scrSlideTransition(TRANS_MODE.GOTO, rSelectionChoice1Aftermath1);
