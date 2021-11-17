@@ -38,7 +38,7 @@ if ((menu_x > gui_width + 150) && (menu_comitted != -1))
 		case 2:
 		{
 			audio_sound_gain(bgm1,0,500);
-			scrSlideTransition(TRANS_MODE.GOTO, rSelection1);//rDialogue1
+			scrSlideTransition(TRANS_MODE.GOTO, rDialogue1);//rDialogue1
 			break;
 		}
 		case 1: scrSlideTransition(TRANS_MODE.NEXT); break;

@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oSelection1Choice1Aftermath",
+  "name": "oAfternoonD1Dialogue1",
   "tags": [],
   "resourceType": "GMObject",
 }

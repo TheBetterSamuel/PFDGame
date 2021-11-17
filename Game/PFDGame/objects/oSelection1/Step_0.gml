@@ -39,7 +39,7 @@ if (option_comitted != -1)
 			//enter code for option 2
 			if(addCarbon)
 			{
-				//oCarbonMeterStory.currentEmissions += 5;
+				oCarbonMeterStory.currentEmissions += 5; //Hide if crashing when skipping to scenes
 				addCarbon = false;
 			}
 			scrSlideTransition(TRANS_MODE.GOTO, rSelection1Choice2);
@@ -50,10 +50,11 @@ if (option_comitted != -1)
 			//enter code for option 3
 			if(addCarbon)
 			{
-				//oCarbonMeterStory.currentEmissions += 15;
+				oCarbonMeterStory.currentEmissions += 15; //Hide if crashing when skipping to scenes
 				addCarbon = false;
 			}
-			scrSlideTransition(TRANS_MODE.GOTO, rSelection1Choice3);
+			audio_sound_gain(sDailyMorningAfternoonBgm,0,500);
+			scrSlideTransition(TRANS_MODE.GOTO, rSelection1Choice3); 
 			break;
 		}
 	}

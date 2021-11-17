@@ -1,5 +1,9 @@
 /// @description assign variables
 
+//Raise bgm levels after the decrease
+audio_sound_gain(sDailyMorningAfternoonBgm,0.01,0);
+audio_sound_gain(sDailyMorningAfternoonBgm,0.6,1);
+
 char_name = "Keisuke";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "\"I have some time anyways; guess I'll go by bike and get some exercise while I'm at it.\" ";

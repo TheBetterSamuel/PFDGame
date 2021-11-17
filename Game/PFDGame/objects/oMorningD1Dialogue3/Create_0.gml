@@ -2,9 +2,10 @@
 
 char_name = "";
 
-dialogues[0] = "- October 30th 2047, 7:30 AM - ";
-dialogues[1] = "After exiting the house, I lock the door and proceed out the gate. ";
-dialogues[2] = "I woke up a little early, so I have more time than usual. How should I head to school today? ";
+dialogues[0] = "- House (Outside) - ";
+dialogues[1] = "- October 30th 2047, 7:30 AM - ";
+dialogues[2] = "After exiting the house, I lock the door and proceed out the gate. ";
+dialogues[3] = "I woke up a little early, so I have more time than usual. How should I head to school today? ";
 
 dia = array_length(dialogues);
 
