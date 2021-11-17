@@ -29,7 +29,7 @@ if (i < dia)
 else
 {
 	//audio_sound_gain(sDailyMorningAfternoonBgm,0,500);
-	scrSlideTransition(TRANS_MODE.GOTO, rAfternoonD1Dialogue3);
+	scrSlideTransition(TRANS_MODE.GOTO, rAfternoonD1Dialogue4);
 }
 
 
