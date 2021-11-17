@@ -24,23 +24,28 @@ if(option_control)
 	}
 }
 
-if (menu_comitted != -1)
+if (option_comitted != -1)
 {
 	switch(option_comitted)
 	{
 		case 2:
 		{
 			//enter code for option 1
+			scrSlideTransition(TRANS_MODE.GOTO, rMenu);
 			break;
 		}
 		case 1: 
 		{
 			//enter code for option 2
+			oCarbonMeterStory.currentEmissions += 5;
+			scrSlideTransition(TRANS_MODE.GOTO, rMenu);
 			break;
 		}
 		case 0: 
 		{
 			//enter code for option 3
+			oCarbonMeterStory.currentEmissions += 15;
+			scrSlideTransition(TRANS_MODE.GOTO, rMenu);
 			break;
 		}
 	}

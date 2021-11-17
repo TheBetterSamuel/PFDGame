@@ -4,11 +4,11 @@ draw_set_font(option_font);
 draw_set_halign(fa_center);
 draw_set_valign(fa_center);
 
-for(var i = 0; i < menu_items; i++)
+for(var i = 0; i < option_size; i++)
 {
 	var offset = 3;
-	var txt = menu[i];
-	if(menu_cursor == i)
+	var txt = options[i];
+	if(option_cursor == i)
 	{
 		var col = c_gray;
 		draw_set_alpha(a_selected);
@@ -17,7 +17,6 @@ for(var i = 0; i < menu_items; i++)
 	else
 	{
 		var col = c_white;
-		draw_set_alpha(a_unselected);
 		draw_set_alpha(a_unselected);
 		draw_rectangle_color(option_x - rect_width, option_y - (option_itemheight * i) - rect_height,option_x + rect_width, option_y - (option_itemheight * i) + rect_height, col1_unselected, col2_unselected, col2_unselected, col1_unselected, false);
 	}

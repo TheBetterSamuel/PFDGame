@@ -10,6 +10,7 @@ else
 
 draw_set_halign(fa_right);
 draw_set_valign(fa_top);
+draw_set_alpha(1);
 draw_set_font(fMenu2);
 draw_set_color(c_black);
 draw_text((box_X - boxMArgin) + 3,(boxMArgin),txt);
