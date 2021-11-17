@@ -31,7 +31,7 @@ if (option_comitted != -1)
 		case 2:
 		{
 			//enter code for option 1
-			scrSlideTransition(TRANS_MODE.GOTO, rMenu);
+			scrSlideTransition(TRANS_MODE.GOTO, rSelection1Choice1);
 			break;
 		}
 		case 1: 
@@ -39,10 +39,10 @@ if (option_comitted != -1)
 			//enter code for option 2
 			if(addCarbon)
 			{
-				oCarbonMeterStory.currentEmissions += 5;
+				//oCarbonMeterStory.currentEmissions += 5;
 				addCarbon = false;
 			}
-			scrSlideTransition(TRANS_MODE.GOTO, rMenu);
+			scrSlideTransition(TRANS_MODE.GOTO, rSelection1Choice2);
 			break;
 		}
 		case 0: 
@@ -50,10 +50,10 @@ if (option_comitted != -1)
 			//enter code for option 3
 			if(addCarbon)
 			{
-				oCarbonMeterStory.currentEmissions += 15;
+				//oCarbonMeterStory.currentEmissions += 15;
 				addCarbon = false;
 			}
-			scrSlideTransition(TRANS_MODE.GOTO, rMenu);
+			scrSlideTransition(TRANS_MODE.GOTO, rSelection1Choice3);
 			break;
 		}
 	}
