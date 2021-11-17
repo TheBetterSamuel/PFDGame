@@ -6,6 +6,8 @@ audio_play_sound(sMorningSounds,1000,true);
 audio_sound_gain(sMorningSounds,0.01,0);
 audio_sound_gain(sMorningSounds,0.45,1);
 
+char_name = "Keisuke";
+
 dialogues[0] = "- October 30th 2047, 7:00 AM - ";
 dialogues[1] = "!!!!!!!!!!!!!!! ";
 dialogues[2] = "\"Just.. just a dream huh...\" ";

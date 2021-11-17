@@ -5,6 +5,8 @@ audio_play_sound(sDialogue1,1000,true);
 audio_sound_gain(sDialogue1,0.01,0);
 audio_sound_gain(sDialogue1,0.4,1);
 
+char_name = "???";
+
 dialogues[0] = "\"This world... ’’ it's not ’’ habitable.\" ";
 dialogues[1] = "\"Not ’’’ a world like this....\" ";
 dialogues[2] = "\"The sky ’’ an endless ’ canvas of gray.. ’’, the stench ’ of fumes ’’ permeating the air, choking me, ’ at every chance..\" ";
