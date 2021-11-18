@@ -14,7 +14,7 @@ dialogues[3] = "\"*Snickers*\" ";
 dialogues[4] = "\"Ah.......\" ";
 dialogues[5] = "\"Oi! Keisuke! Curb your excitement and take your seat, class is about to begin.\" ";
 dialogues[6] = "\"Might've gotten a bit too excited there. How embarrassing, today's not my day I guess.\" ";
-dialogues[7] = "After that thought, I took my seat and prepared myself for lessons, before I embarrass myself even more. ";
+dialogues[7] = "After that thought, I take my seat and prepared myself for lessons, before I embarrass myself even more. ";
 dialogues[8] = "Damn, I really wanted to read that light novel too.. *sigh*.. ";
 
 dia = array_length(dialogues);

@@ -10,12 +10,12 @@
   "bbox_left": 0,
   "bbox_right": 799,
   "bbox_top": 0,
-  "bbox_bottom": 474,
+  "bbox_bottom": 483,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "width": 800,
-  "height": 475,
+  "height": 484,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3437a23f-cf85-4cd3-b49e-ab82bdd923b8","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3437a23f-cf85-4cd3-b49e-ab82bdd923b8","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},"LayerId":{"name":"2ef9ec1a-19dc-4628-b809-f5c19f3daf42","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"rTachikawaStreetsNight","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},"resourceVersion":"1.0","name":"3437a23f-cf85-4cd3-b49e-ab82bdd923b8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"77da2710-f0aa-4ee2-8a82-b27681bab015","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"77da2710-f0aa-4ee2-8a82-b27681bab015","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},"LayerId":{"name":"57a20339-b7a8-4cbb-aae3-30f5694ef3c6","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"rTachikawaStreetsNight","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},"resourceVersion":"1.0","name":"77da2710-f0aa-4ee2-8a82-b27681bab015","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"rTachikawaStreetsNight","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"396d8c06-bd12-498f-8f57-18338ebf7f9b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3437a23f-cf85-4cd3-b49e-ab82bdd923b8","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"765eec1d-d88c-4207-9ae9-5f633ae7742c","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"77da2710-f0aa-4ee2-8a82-b27681bab015","path":"sprites/rTachikawaStreetsNight/rTachikawaStreetsNight.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2ef9ec1a-19dc-4628-b809-f5c19f3daf42","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"57a20339-b7a8-4cbb-aae3-30f5694ef3c6","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

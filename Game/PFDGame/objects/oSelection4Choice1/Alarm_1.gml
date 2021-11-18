@@ -1,6 +1,14 @@
 i++;
 index = 0;
 
+if (i == 3){
+	char_name = "";
+}
+
+if (i == 4){
+	char_name = "Keisuke";
+}
+
 if (i == 10){
 	char_name = "Developers";
 }

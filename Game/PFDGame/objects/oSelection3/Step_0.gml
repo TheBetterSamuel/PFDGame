@@ -36,7 +36,7 @@ if (option_comitted != -1)
 				//enter code for option 2
 				if(addCarbon)
 				{
-					//oCarbonMeterStory.currentEmissions += 5; //Hide if crashing when skipping to scenes
+					oCarbonMeterStory.currentEmissions += 15; //Hide if crashing when skipping to scenes
 					addCarbon = false;
 				}
 				scrSlideTransition(TRANS_MODE.GOTO, rSelection3Choice1);
@@ -47,7 +47,7 @@ if (option_comitted != -1)
 				//enter code for option 3
 				if(addCarbon)
 				{
-					//oCarbonMeterStory.currentEmissions += 15; //Hide if crashing when skipping to scenes
+					oCarbonMeterStory.currentEmissions += 5; //Hide if crashing when skipping to scenes
 					addCarbon = false;
 				}
 				scrSlideTransition(TRANS_MODE.GOTO, rSelection3Choice2);

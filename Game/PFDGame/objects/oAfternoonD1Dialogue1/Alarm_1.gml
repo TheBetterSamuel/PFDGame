@@ -4,7 +4,7 @@ if (i == 2){
 }
 
 if (i == 4){
-	char_name = "Fumihito";
+	char_name = "???";
 }
 
 if (i == 5){

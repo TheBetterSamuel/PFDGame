@@ -2,7 +2,7 @@
 
 char_name = "Keisuke";
 //dialogues[0] = "\"\" ";
-dialogues[0] = "\"True. But I think I'll go with a salad, our school's salad is really filling and I read up recently about an article on food and sustainability that said something about picking vegetables instead of meat.\" ";
+dialogues[0] = "\"True. But I think I'll go with a salad, since our school's salad is really filling and I read up recently about an article on food and sustainability that said something about picking vegetables instead of meat.\" ";
 dialogues[1] = "\"How did it go again?\" ";
 dialogues[2] = "\"We can reduce carbon emissions by changing our day-to-day diet. Even though the difference in subtle and we might not directly feel it, we can actually preserve the environment and slow down global warming just by changing the foods we eat.\" ";
 dialogues[3] = "\"Firstly, livestock farming can contribute up to 20%-50% of man-made greenhouse gas emissions. On the contrary, a vegan diet has the lowest carbon footprint at just 1.5 tonnes of carbon dioxide equivalent.\" ";
