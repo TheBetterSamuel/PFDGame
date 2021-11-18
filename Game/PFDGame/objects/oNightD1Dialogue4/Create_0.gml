@@ -4,19 +4,8 @@ char_name = "";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "- ??? - ";
 dialogues[1] = "- October 30th 2047, 20:00 PM - ";
-dialogues[2] = "I proceeded through the entrance and rode a lift all the way to the third floor. ";
-dialogues[3] = "Somewhere I have been going ever since August, 2 months ago. ";
-dialogues[0] = "\"\" ";
-dialogues[0] = "\"\" ";
-dialogues[0] = "\"\" ";
-dialogues[0] = "\"\" ";
-dialogues[0] = "\"\" ";
-dialogues[0] = "\"\" ";
-dialogues[0] = "\"\" ";
-dialogues[0] = "\"\" ";
-dialogues[0] = "\"\" ";
-dialogues[0] = "\"\" ";
-dialogues[0] = "\"\" ";
+dialogues[2] = "After about 30 minutes of walking, a big building dyed by the navy blue of night with bright rays of white shining through it's windows. ";
+dialogues[3] = "There is also a fountain in the middle of said building surrounded by greenery. ";
 
 dia = array_length(dialogues);
 

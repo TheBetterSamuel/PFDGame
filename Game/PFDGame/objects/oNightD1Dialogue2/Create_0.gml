@@ -7,7 +7,7 @@ dialogues[1] = "- October 30th 2047, 19:10 PM - ";
 dialogues[2] = "Most students after school would head to somewhere to relax, study, to have fun or straight back home. ";
 dialogues[3] = "But for me, I have a slightly different routine. ";
 dialogues[4] = "Something only me, my family, a few teaching staff and a few others know about. ";
-dialogues[5] = "I headed to the train station and boarded a train to my destination.. ";
+dialogues[5] = "I head to the train station and boarded a train to my destination.. ";
 dialogues[6] = "To my slightly different routine. ";
 dialogues[7] = "- 20 minutes later - ";
 

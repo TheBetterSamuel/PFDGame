@@ -3,9 +3,9 @@
 char_name = "";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "- Hachioji Station - ";
-dialogues[1] = "- October 30th 2047, 19:30 PM - ";
-dialogues[2] = "I arrived at the station of where I needed to be and walked to my destination. ";
-dialogues[3] = "Somewhere I have been going ever since August, 2 months ago. ";
+dialogues[1] = "- October 30th 2047, 21:00 PM - ";
+dialogues[2] = "After arriving at Hachioji station, I tapped my commuter pass on the entrance gates and waited for the train to arrive. ";
+dialogues[3] = "I then boarded the train heading to my home district. ";
 
 dia = array_length(dialogues);
 
