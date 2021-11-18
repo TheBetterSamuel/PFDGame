@@ -20,7 +20,7 @@ dialogues[14] = "I grab a couple soft drinks and a few packets of snacks and pla
 dialogues[15] = "By the time I was done picking everything, the udon was done and packaged. ";
 dialogues[16] = "\"That will be sixteen dollars and ninety cents.\" ";
 dialogues[17] = "\"Alright.\" ";
-dialogues[18] = "\"Do you want to bag it in a plastic bag or buy an eco-bag for another eight dollars?\" ";
+dialogues[18] = "\"Do you want to bag it in a plastic bag or buy an eco-bag for another 1 dollar?\" ";
 dialogues[19] = "\"Eco-bag huh..\" ";
 dialogues[20] = "Hmmm, what should I choose? ";
 

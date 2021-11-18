@@ -4,6 +4,23 @@ draw_set_font(option_font);
 draw_set_halign(fa_center);
 draw_set_valign(fa_center);
 
+if(option_comitted != -1)
+{
+	switch(option_comitted)
+	{
+		//change text color for option 1
+		case 2: var col_text = make_color_rgb(252, 147, 0); break;
+		//change text color for option 2
+		case 1: var col_text = make_color_rgb(252, 147, 0); break;
+		//change text color for option 3
+		case 0: var col_text = make_color_rgb(252, 38, 0); break;
+	}
+}
+else
+{
+	var col_text = c_white;
+}
+
 for(var i = 0; i < option_size; i++)
 {
 	var offset = 3;
