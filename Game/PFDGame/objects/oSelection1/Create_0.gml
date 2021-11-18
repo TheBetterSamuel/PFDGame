@@ -30,3 +30,5 @@ addCarbon = true;
 
 option_y = gui_height - (5 * rect_height);
 option_x = (gui_height / 2) + 430;
+
+timeElapsed = 0;
