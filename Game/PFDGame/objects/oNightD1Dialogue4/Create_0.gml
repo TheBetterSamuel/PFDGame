@@ -2,10 +2,21 @@
 
 char_name = "";
 //dialogues[0] = "\"\" ";
-dialogues[0] = "- Hachioji Station - ";
-dialogues[1] = "- October 30th 2047, 19:30 PM - ";
-dialogues[2] = "I arrived at the station where I needed to be and walked to my destination. ";
+dialogues[0] = "- ??? - ";
+dialogues[1] = "- October 30th 2047, 20:00 PM - ";
+dialogues[2] = "I proceeded through the entrance and rode a lift all the way to the third floor. ";
 dialogues[3] = "Somewhere I have been going ever since August, 2 months ago. ";
+dialogues[0] = "\"\" ";
+dialogues[0] = "\"\" ";
+dialogues[0] = "\"\" ";
+dialogues[0] = "\"\" ";
+dialogues[0] = "\"\" ";
+dialogues[0] = "\"\" ";
+dialogues[0] = "\"\" ";
+dialogues[0] = "\"\" ";
+dialogues[0] = "\"\" ";
+dialogues[0] = "\"\" ";
+dialogues[0] = "\"\" ";
 
 dia = array_length(dialogues);
 
