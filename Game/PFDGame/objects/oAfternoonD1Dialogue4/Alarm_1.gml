@@ -71,5 +71,45 @@ if (i == 24){
 	char_name = "Fumihito";
 }
 
+if (i == 26){
+	char_name = "Keisuke";
+}
+
+if (i == 27){
+	char_name = "Fumihito";
+}
+
+if (i == 28){
+	char_name = "Keisuke";
+}
+
+if (i == 29){
+	char_name = "Fumihito";
+}
+
+if (i == 30){
+	char_name = "Keisuke";
+}
+
+if (i == 31){
+	char_name = "Fumihito";
+}
+
+if (i == 32){
+	char_name = "Keisuke";
+}
+
+if (i == 33){
+	char_name = "Fumihito";
+}
+
+if (i == 34){
+	char_name = "Keisuke";
+}
+
+if (i == 34){
+	char_name = "";
+}
+
 index = 0;
 alarm[0] = room_speed * 0.5;

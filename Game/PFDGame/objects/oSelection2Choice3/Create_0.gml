@@ -2,7 +2,7 @@
 
 char_name = "Keisuke";
 //dialogues[0] = "\"\" ";
-dialogues[0] = "\"True. But I think I'll go with a salad, our school's salad is really filling and I read up recently about an article on food and sustainability.\" ";
+dialogues[0] = "\"True. But I think I'll go with a salad, our school's salad is really filling and I read up recently about an article on food and sustainability that said something about picking vegetables instead of meat.\" ";
 dialogues[1] = "\"How did it go again?\" ";
 dialogues[2] = "\"TO BE ADDED.\" ";
 dialogues[3] = "- 15 minutes later - ";
