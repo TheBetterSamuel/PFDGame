@@ -7,4 +7,4 @@ box_X = display_get_gui_width();
 boxMArgin = 50;
 
 lineHeight = font_get_size(fMenu2) * 2;
-txt = "Carbon Level: " + string(currentEmissions);
+txt = "Contributions: " + string(currentEmissions);

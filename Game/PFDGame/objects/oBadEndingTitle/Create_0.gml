@@ -1,6 +1,7 @@
 /// @description 
-title = "Day 1";
-subtitle = "You woke up from a dream, or was it...";
+//texts
+title = "Game Over";
+subtitle = "Remember to keep your contributions as low as possible";
 
 //positioning
 gui_width = display_get_gui_width();

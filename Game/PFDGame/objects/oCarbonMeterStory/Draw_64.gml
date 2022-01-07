@@ -2,7 +2,7 @@
 
 
 
-txt = "Carbon Level: " + string(currentEmissions);
+txt = "Contributions: " + string(currentEmissions);
 
 if(currentEmissions >= 75)
 {
