@@ -3,5 +3,5 @@ elapsedTime += 0.1;
 
 if (elapsedTime >= 10)
 {
-	scrSlideTransition(TRANS_MODE.GOTO, rMenu);
+	scrSlideTransition(TRANS_MODE.GOTO, rMorningRoom);
 }

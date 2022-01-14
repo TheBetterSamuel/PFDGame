@@ -1,6 +1,6 @@
 i++;
 if (i == 2){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 23){

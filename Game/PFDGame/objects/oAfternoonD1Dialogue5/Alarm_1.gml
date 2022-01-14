@@ -1,10 +1,10 @@
 i++;
 if (i == 2){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 7){
-	char_name = "Article-san";
+	char_name = "Article";
 }
 
 if (i == 23){

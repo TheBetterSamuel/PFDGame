@@ -11,7 +11,7 @@ if(option_comitted != -1)
 		//change text color for option 1
 		case 2: var col_text = make_color_rgb(252, 147, 0); break;
 		//change text color for option 2
-		case 1: var col_text = make_color_rgb(252, 147, 0); break;
+		case 1: var col_text = make_color_rgb(255, 0 , 0); break;
 		//change text color for option 3
 		case 0: var col_text = make_color_rgb(0, 252, 4); break;
 	}
