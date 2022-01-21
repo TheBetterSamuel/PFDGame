@@ -103,6 +103,7 @@
     {"id":{"name":"sMorningSounds","path":"sounds/sMorningSounds/sMorningSounds.yy",},"order":4,},
     {"id":{"name":"rOmiseNight","path":"sprites/rOmiseNight/rOmiseNight.yy",},"order":22,},
     {"id":{"name":"rSelection4Choice1","path":"rooms/rSelection4Choice1/rSelection4Choice1.yy",},"order":44,},
+    {"id":{"name":"Font5","path":"fonts/Font5/Font5.yy",},"order":15,},
     {"id":{"name":"sMenuClick1","path":"sounds/sMenuClick1/sMenuClick1.yy",},"order":1,},
     {"id":{"name":"rHomeRoomNightLight","path":"sprites/rHomeRoomNightLight/rHomeRoomNightLight.yy",},"order":26,},
     {"id":{"name":"oSelection1Choice1","path":"objects/oSelection1Choice1/oSelection1Choice1.yy",},"order":16,},
