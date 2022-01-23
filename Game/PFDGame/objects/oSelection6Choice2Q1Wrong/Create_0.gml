@@ -1,15 +1,10 @@
 /// @description assign variables
 
-
-/// Day2 Outside House 
+///Chose wrong answer in Question 1 (Choice 2)
 
 char_name = "";
 
-dialogues[0] = "- House (Outside) -";
-dialogues[1] = "- October 31st 2047, 7:40 AM -";
-dialogues[2] = "I lock the door and proceed to the gate.";
-dialogues[3] = "Alright, How should I head to school today?";
-
+dialogue[0] = "\"Eh… is this the right answer?\" ";
 
 dia = array_length(dialogues);
 
@@ -21,4 +16,3 @@ margin = 50;
 boxLength = 1550;
 lineHeight = font_get_size(fDialogue) * 1.5;
 txt = " ";
-

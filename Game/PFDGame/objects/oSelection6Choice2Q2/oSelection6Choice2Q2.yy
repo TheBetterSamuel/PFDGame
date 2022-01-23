@@ -27,7 +27,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oSelection5Choice2AftermathQues1",
+  "name": "oSelection6Choice2Q2",
   "tags": [],
   "resourceType": "GMObject",
 }

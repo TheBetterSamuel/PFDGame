@@ -1,5 +1,5 @@
 /// @description assign variables
-///by Marcus
+
 
 /// Outside school after taking bus 
 

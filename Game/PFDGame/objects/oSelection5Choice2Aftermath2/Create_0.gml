@@ -1,5 +1,5 @@
 /// @description assign variables 
-///by Marcus 
+
 
 ///Running to classroom/Opening class door effect *input*
 ///Arriving late to class

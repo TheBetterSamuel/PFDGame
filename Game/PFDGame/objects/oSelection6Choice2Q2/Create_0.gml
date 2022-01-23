@@ -1,12 +1,13 @@
-/// @description create set variables 
+/// @description set variables
 
 
-///Day 2 Choose public or taxi 
+///Choice 2 Aftermath Quiz Question 2
 
 //change to set texts
-mainText = "Choose a method of transportation";
-options[1] = "Travel by public transportation";
-options[0] = "Travel by taxi";
+mainText = "Which of the following forms of transportation are more sustainable and can reduce more carbon footprint?";
+options[2] = "Private Transport";
+options[1] = "Public Transport";
+options[0] = "Hired Transport";
 option_size = array_length_1d(options);
 
 //sets color of buttons
@@ -28,7 +29,7 @@ option_control = true;
 option_cursor = 2;
 lineHeight = font_get_size(fMenu) * 1.5;
 
-addCarbon = true;
+
 
 option_y = gui_height - (5 * rect_height);
 option_x = (gui_height / 2) + 430;
