@@ -27,7 +27,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oMorningD2Dialogue3",
+  "name": "oSelection5Choice1Aftermath2",
   "tags": [],
   "resourceType": "GMObject",
 }

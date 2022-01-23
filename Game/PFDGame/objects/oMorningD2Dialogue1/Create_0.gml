@@ -1,6 +1,7 @@
 /// @description assign variables 
 ///by Marcus 
 
+/// Day 2 Bed & Bathroom 
 
 char_name = "";
 
@@ -18,14 +19,14 @@ dialogues[10] = "\"*YAWN*.... I should probably get out now. . .\" ";
 dialogues[11] = "Alas, I finally got out of bed, even though my brain was still on dial-up.";
 dialogues[12] = "I then walk ever so slowly straight to the bathroom whilst trying not to topple over.";
 dialogues[13] = "Step by step… slowly but surely…";
-dialogues[13] = "I entered the bathroom and immediately walked right up to the sink so that I could freshen myself up.";
-dialogues[13] = "I proceeded to wash my face with cool refreshing water after twisting the faucet.";
-dialogues[13] = "Shortly after, I began brushing my teeth.";
-dialogues[13] = "As I brushed, I pondered on today’s agenda..";
-dialogues[13] = "\"What is there to do today..?\" ";
-dialogues[13] = "\"Ah right… the quiz…\" ";
-dialogues[13] = "\"Hope I studied enough... *sigh*\" ";
-dialogues[13] = "- 13 minutes later - ";
+dialogues[14] = "I entered the bathroom and immediately walked right up to the sink so that I could freshen myself up.";
+dialogues[15] = "I proceeded to wash my face with cool refreshing water after twisting the faucet.";
+dialogues[16] = "Shortly after, I began brushing my teeth.";
+dialogues[17] = "As I brushed, I pondered on today’s agenda..";
+dialogues[18] = "\"What is there to do today..?\" ";
+dialogues[19] = "\"Ah right… the quiz…\" ";
+dialogues[20] = "\"Hope I studied enough... *sigh*\" ";
+dialogues[21] = "- 15 minutes later - ";
 
 dia = array_length(dialogues);
 
