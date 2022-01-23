@@ -1,6 +1,6 @@
 /// @description assign variables
 
-char_name = "Keisuke";
+char_name = "Chris";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "I proceeded through the entrance and walked up the stairs, all the way to the third floor. ";
 dialogues[1] = "I greeted the staff and headed straight to door 303. ";

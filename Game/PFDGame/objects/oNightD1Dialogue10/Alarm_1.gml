@@ -1,6 +1,6 @@
 i++;
 if (i == 2){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 11){
@@ -8,7 +8,7 @@ if (i == 11){
 }
 
 if (i == 12){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 13){
@@ -16,7 +16,7 @@ if (i == 13){
 }
 
 if (i == 14){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 16){
@@ -24,7 +24,7 @@ if (i == 16){
 }
 
 if (i == 17){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 18){
@@ -32,7 +32,7 @@ if (i == 18){
 }
 
 if (i == 19){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 index = 0;

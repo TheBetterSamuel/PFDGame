@@ -1,6 +1,6 @@
 /// @description assign variables
 
-char_name = "Keisuke";
+char_name = "Chris";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "Yeah, I'm a student on a budget. Shouldn't be spending money on random things like this. ";
 dialogues[1] = "It's not like it will serve any purpose in the grand scheme of things. ";

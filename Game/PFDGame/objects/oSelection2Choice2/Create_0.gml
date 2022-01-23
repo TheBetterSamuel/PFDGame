@@ -1,6 +1,6 @@
 /// @description assign variables
 
-char_name = "Keisuke";
+char_name = "Chris";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "\"True. But I'm not feeling chicken rice, I think I'll get the beef bowl, since it's cheap and delicious, meet up with you later.\" ";
 dialogues[1] = "Although.. I think I remembered an article about this.. What was it again? ";

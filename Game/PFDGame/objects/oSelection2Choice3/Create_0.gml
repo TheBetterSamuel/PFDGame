@@ -1,6 +1,6 @@
 /// @description assign variables
 
-char_name = "Keisuke";
+char_name = "Chris";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "\"True. But I think I'll go with a salad, since our school's salad is really filling and I read up recently about an article on food and sustainability that said something about picking vegetables instead of meat.\" ";
 dialogues[1] = "\"How did it go again?\" ";

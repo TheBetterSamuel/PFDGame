@@ -4,7 +4,7 @@ if (i == 2){
 }
 
 if (i == 4){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 index = 0;
 alarm[0] = room_speed * 0.5;

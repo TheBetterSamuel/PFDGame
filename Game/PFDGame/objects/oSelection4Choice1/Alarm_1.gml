@@ -6,7 +6,7 @@ if (i == 3){
 }
 
 if (i == 4){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 10){

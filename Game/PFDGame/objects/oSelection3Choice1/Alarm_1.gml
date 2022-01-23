@@ -2,11 +2,11 @@ i++;
 index = 0;
 
 if (i == 3){
-	char_name = "Article-san";
+	char_name = "Article";
 }
 
 if (i == 7){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 8){
@@ -14,7 +14,7 @@ if (i == 8){
 }
 
 if (i == 10){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 12){
@@ -22,7 +22,7 @@ if (i == 12){
 }
 
 if (i == 13){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 14){
@@ -30,7 +30,7 @@ if (i == 14){
 }
 
 if (i == 15){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 alarm[0] = room_speed * 0.5;

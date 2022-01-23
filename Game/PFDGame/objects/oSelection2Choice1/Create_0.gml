@@ -1,6 +1,6 @@
 /// @description assign variables
 
-char_name = "Keisuke";
+char_name = "Chris";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "\"True, guess I'll get it then. Aight, let's queue.\" ";
 dialogues[1] = "\"Jesus the queue got long.\" ";

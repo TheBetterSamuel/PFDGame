@@ -1,10 +1,10 @@
 i++;
 if (i == 2){
-	char_name = "Article-san";
+	char_name = "Article";
 }
 
 if (i == 6){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 index = 0;
 alarm[0] = room_speed * 0.5;

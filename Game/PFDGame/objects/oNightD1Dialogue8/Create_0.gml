@@ -1,6 +1,6 @@
 /// @description assign variables
 
-char_name = "Keisuke";
+char_name = "Chris";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "During the train ride, in a jam packed train, I thought about my mother and her current condition. ";
 dialogues[1] = "She seemed healthier today, but I know that it issn't going to last and is only but a phase. ";

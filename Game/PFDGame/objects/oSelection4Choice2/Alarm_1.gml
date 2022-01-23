@@ -2,7 +2,7 @@ i++;
 index = 0;
 
 if (i == 2){
-	char_name = "Article-san";
+	char_name = "Article";
 }
 
 if (i == 18){
@@ -10,7 +10,7 @@ if (i == 18){
 }
 
 if (i == 19){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 25){

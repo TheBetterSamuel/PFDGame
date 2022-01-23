@@ -1,6 +1,6 @@
 i++;
 if (i == 1){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 4){
@@ -8,7 +8,7 @@ if (i == 4){
 }
 
 if (i == 5){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 if (i == 6){
@@ -16,7 +16,7 @@ if (i == 6){
 }
 
 if (i == 7){
-	char_name = "Keisuke";
+	char_name = "Chris";
 }
 
 index = 0;

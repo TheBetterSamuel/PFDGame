@@ -4,7 +4,7 @@
 audio_sound_gain(sDailyMorningAfternoonBgm,0.01,0);
 audio_sound_gain(sDailyMorningAfternoonBgm,0.6,1);
 
-char_name = "Keisuke";
+char_name = "Chris";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "\"Yeah, better not risk anything by changing my routing, even with extra time, I don't want to risk being late after all. The discipline master is a real stuck up for rules.\" ";
 dialogues[1] = "Although, I do remember an article I read about this.. what was it again? ";
