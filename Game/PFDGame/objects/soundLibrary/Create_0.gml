@@ -2,6 +2,8 @@
 // You can write your code in this editor
 
 volume = 1;
+setVolume = true;
+timeElapsed = 0;
 
 audio_play_sound(bgm1,1000,true);
 audio_sound_gain(bgm1,0.01,0);
