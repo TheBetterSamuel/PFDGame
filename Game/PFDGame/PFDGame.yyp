@@ -48,6 +48,7 @@
     {"id":{"name":"oSelection2Choice3","path":"objects/oSelection2Choice3/oSelection2Choice3.yy",},"order":30,},
     {"id":{"name":"rSelection2Choice2","path":"rooms/rSelection2Choice2/rSelection2Choice2.yy",},"order":21,},
     {"id":{"name":"rHospitalRoomNight","path":"sprites/rHospitalRoomNight/rHospitalRoomNight.yy",},"order":20,},
+    {"id":{"name":"rOptions","path":"rooms/rOptions/rOptions.yy",},"order":49,},
     {"id":{"name":"rMorningClassroom","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"order":10,},
     {"id":{"name":"rBg1","path":"sprites/rBg1/rBg1.yy",},"order":0,},
     {"id":{"name":"rNightD1Dialogue7","path":"rooms/rNightD1Dialogue7/rNightD1Dialogue7.yy",},"order":32,},
@@ -132,6 +133,7 @@
     {"id":{"name":"oMenuTitle","path":"objects/oMenuTitle/oMenuTitle.yy",},"order":3,},
     {"id":{"name":"rCarInterior","path":"sprites/rCarInterior/rCarInterior.yy",},"order":11,},
     {"id":{"name":"oNightD1Dialogue11","path":"objects/oNightD1Dialogue11/oNightD1Dialogue11.yy",},"order":47,},
+    {"id":{"name":"oOptions","path":"objects/oOptions/oOptions.yy",},"order":76,},
     {"id":{"name":"oSelection1","path":"objects/oSelection1/oSelection1.yy",},"order":15,},
     {"id":{"name":"bgm1","path":"sounds/bgm1/bgm1.yy",},"order":0,},
     {"id":{"name":"oCarbonMeterStory","path":"objects/oCarbonMeterStory/oCarbonMeterStory.yy",},"order":14,},
@@ -228,6 +230,7 @@
     {"roomId":{"name":"rBadEndingTitle","path":"rooms/rBadEndingTitle/rBadEndingTitle.yy",},},
     {"roomId":{"name":"rDialogue1","path":"rooms/rDialogue1/rDialogue1.yy",},},
     {"roomId":{"name":"rTutorial","path":"rooms/rTutorial/rTutorial.yy",},},
+    {"roomId":{"name":"rOptions","path":"rooms/rOptions/rOptions.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

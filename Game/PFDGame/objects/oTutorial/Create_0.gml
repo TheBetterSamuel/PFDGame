@@ -4,13 +4,13 @@ gui_width = display_get_gui_width();
 gui_height = display_get_gui_height();
 gui_margin = 60;
 
-fCredits = font_add("NikkyouSans-mLKax.ttf",25,false,false,32,40908)
+fTutorial = font_add("NikkyouSans-mLKax.ttf",25,false,false,32,40908)
 
 title = "HOW TO PLAY"
 
 bottomText = "PRESS ESCAPE TO RETURN TO THE MAIN MENU"
 
-lineHeight = font_get_size(fCredits) * 1.5;
+lineHeight = font_get_size(fTutorial) * 1.5;
 
 tutTexts[0] = "Controls: "
 tutTexts[1] = "Use Up & Down Arrow / W & S Key to select choices"

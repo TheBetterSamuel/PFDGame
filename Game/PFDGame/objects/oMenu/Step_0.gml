@@ -42,6 +42,7 @@ if ((menu_x > gui_width + 150) && (menu_comitted != -1))
 			break;
 		}
 		case 3: scrSlideTransition(TRANS_MODE.GOTO, rTutorial); break;
+		case 2: scrSlideTransition(TRANS_MODE.GOTO, rOptions); break;
 		case 1: scrSlideTransition(TRANS_MODE.NEXT); break;
 		case 0: default: game_end(); break;
 	}
