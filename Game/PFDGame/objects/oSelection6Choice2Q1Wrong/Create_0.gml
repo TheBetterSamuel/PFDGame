@@ -1,6 +1,6 @@
 /// @description assign variables
 
-///Chose wrong answer in Question 1 (Choice 2)
+///Chose wrong answer in Question 1 (Late)
 
 char_name = "";
 
