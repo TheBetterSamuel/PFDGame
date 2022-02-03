@@ -16,6 +16,8 @@ col_buttons = make_color_rgb(140, 185, 245);
 a_selected = 1;
 a_unselected = 0.45;
 
+addCarbon = true;
+
 //positioning variables
 gui_height = display_get_gui_height();
 gui_width = display_get_gui_width();

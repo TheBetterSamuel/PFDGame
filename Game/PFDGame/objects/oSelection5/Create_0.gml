@@ -1,12 +1,11 @@
 /// @description create set variables 
 
-
 ///Day 2 Choose public or taxi 
 
 //change to set texts
 mainText = "Choose a method of transportation";
-options[1] = "Travel by public transportation";
-options[0] = "Travel by taxi";
+options[1] = "Public Transportation";
+options[0] = "Taxi";
 option_size = array_length_1d(options);
 
 //sets color of buttons
@@ -25,7 +24,7 @@ option_font = fMenu;
 option_itemheight = font_get_size(fMenu) * 5;
 option_comitted = -1;
 option_control = true;
-option_cursor = 2;
+option_cursor = 1;
 lineHeight = font_get_size(fMenu) * 1.5;
 
 addCarbon = true;

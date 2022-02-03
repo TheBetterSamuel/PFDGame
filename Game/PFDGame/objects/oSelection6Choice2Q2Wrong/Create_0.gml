@@ -1,10 +1,11 @@
 /// @description assign variables
 
-///Chose wrong answer for question 2 (Late)
+///Chose wrong answer in Question 1 (Late)
 
-char_name = ""; 
+char_name = "Chris";
 
-dialogue[0] = "\"Eh… is this the right answer?\" ";
+dialogues[0] = "\"Eh... is this the right answer?\" ";
+dialogues[1] = "\"It'll have to do. Moving on to the next question.\" ";
 
 dia = array_length(dialogues);
 

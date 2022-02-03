@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 4095,
+  "bbox_right": 1279,
   "bbox_top": 0,
-  "bbox_bottom": 2303,
+  "bbox_bottom": 688,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 4096,
-  "height": 2304,
+  "width": 1280,
+  "height": 689,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"cbf965af-b124-4d81-93cb-78cbdc50a3e5","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cbf965af-b124-4d81-93cb-78cbdc50a3e5","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"LayerId":{"name":"4b188879-725e-4fbd-88fb-cecb68ad7e70","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"rMorningClassroom","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"resourceVersion":"1.0","name":"cbf965af-b124-4d81-93cb-78cbdc50a3e5","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1496627c-94c3-4b4d-af97-3b91ffa69af5","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1496627c-94c3-4b4d-af97-3b91ffa69af5","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"LayerId":{"name":"b3925699-1c5b-46c1-98d9-403e9bce2044","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"rMorningClassroom","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"resourceVersion":"1.0","name":"1496627c-94c3-4b4d-af97-3b91ffa69af5","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"rMorningClassroom","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"01735125-dfd5-43e5-a6fc-562b361cb2d6","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cbf965af-b124-4d81-93cb-78cbdc50a3e5","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d81af493-f68d-438a-b5e0-bf501dd2598f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1496627c-94c3-4b4d-af97-3b91ffa69af5","path":"sprites/rMorningClassroom/rMorningClassroom.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4b188879-725e-4fbd-88fb-cecb68ad7e70","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b3925699-1c5b-46c1-98d9-403e9bce2044","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {

@@ -15,7 +15,7 @@ if(menu_control)
 	{
 		menu_cursor--;
 		audio_play_sound(sMenuClick1,10,false);
-		if(menu_cursor < 0) menu_cursor = 2;
+		if(menu_cursor < 0) menu_cursor = 4; //Fixed main menu selection, from 2 to 4 - Daryl
 	}
 	
 	if(keyboard_check_pressed(vk_enter) || keyboard_check_pressed(ord("Z")))
@@ -39,7 +39,7 @@ if ((menu_x > gui_width + 150) && (menu_comitted != -1))
 		{
 			soundLibrary.setVolume = false;
 			audio_sound_gain(bgm1,0,500);
-			scrSlideTransition(TRANS_MODE.GOTO, rDialogue1);//rDialogue1
+			scrSlideTransition(TRANS_MODE.GOTO, rMorningD2Dialogue1);//rDialogue1
 			break;
 		}
 		case 3: scrSlideTransition(TRANS_MODE.GOTO, rTutorial); break;
