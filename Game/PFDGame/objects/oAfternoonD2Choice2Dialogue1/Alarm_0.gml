@@ -28,8 +28,8 @@ if (i < dia)
 }
 else
 {
-	audio_sound_gain(sTaxiLate,0,500);
-	scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q3);
+	audio_sound_gain(sMorningSounds,0,1);
+	scrSlideTransition(TRANS_MODE.GOTO, rAfternoonD2Dialogue1);
 }
 
 

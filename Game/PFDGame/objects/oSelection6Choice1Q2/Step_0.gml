@@ -61,7 +61,7 @@ if (option_comitted != -1)
 					oCarbonMeterStory.currentEmissions += 5;
 					addCarbon = false;
 				}
-				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice2Q2Wrong);
+				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q2Wrong);
 				break;
 			}
 		}

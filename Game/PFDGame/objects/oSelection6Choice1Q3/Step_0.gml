@@ -39,7 +39,7 @@ if (option_comitted != -1)
 					oCarbonMeterStory.currentEmissions -= 5;
 					addCarbon = false;
 				}
-				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q1Correct);
+				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q3Correct);
 				break;
 			}
 			case 1:
@@ -50,7 +50,7 @@ if (option_comitted != -1)
 					oCarbonMeterStory.currentEmissions += 5;
 					addCarbon = false;
 				}
-				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q1Wrong);
+				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q3Correct);
 				break;
 			}
 			case 0:
@@ -61,7 +61,7 @@ if (option_comitted != -1)
 					oCarbonMeterStory.currentEmissions += 5;
 					addCarbon = false;
 				}
-				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q1Wrong);
+				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q3Wrong);
 				break;
 			}
 		}

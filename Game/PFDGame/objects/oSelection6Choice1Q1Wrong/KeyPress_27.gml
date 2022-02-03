@@ -1,3 +1,3 @@
 
 
-scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice2Q2);
+scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q2);

@@ -29,7 +29,7 @@ if (i < dia)
 else
 {
 	audio_sound_gain(sTaxiLate,0,500);
-	scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q3);
+	scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice2Q2);
 }
 
 
