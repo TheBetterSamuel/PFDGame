@@ -9,7 +9,7 @@ audio_sound_gain(sSchoolBackgroundNoise,0.6,1);
 char_name = ""; 
 
 dialogues[0] = "- School (Classroom) - ";
-dialogues[1] = "- October 30th 2047, 8:50 AM -";
+dialogues[1] = "- October 31st 2047, 8:50 AM -";
 dialogues[2] = "\"SORRY FOR BEING LATE!!!!!!!!!!!\" ";
 dialogues[3] = "\"*pant*      *pant*      *pant*\" ";
 dialogues[4] = "\"*Snickers*\" ";

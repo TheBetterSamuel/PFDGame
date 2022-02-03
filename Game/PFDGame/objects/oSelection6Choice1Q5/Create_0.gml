@@ -1,7 +1,4 @@
 /// @description set variables
-audio_play_sound(sQuizBgm,1000,true);
-audio_sound_gain(sQuizBgm,0.01,0);
-audio_sound_gain(sQuizBgm,0.4*soundLibrary.volume,1);
 
 ///Choice 1 Aftermath Quiz Question 5
 

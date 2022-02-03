@@ -8,7 +8,7 @@ audio_sound_gain(sDailyMorningAfternoonBgm,0.6,1);
 char_name = "";
 
 dialogues[0] = "Home (Living Room)";
-dialogues[1] = " - 7:30 AM - ";
+dialogues[1] = "- October 31st 2047, 7:30 AM -";
 dialogues[2] = "I should probably just skip breakfast and head directly to school..";
 dialogues[3] = "I'm not particularly hungry and I don't want to be late for the quiz that I studied for.";
 dialogues[4] = "\"Bag check, wallet check, phone check, schoolwork check...\" ";

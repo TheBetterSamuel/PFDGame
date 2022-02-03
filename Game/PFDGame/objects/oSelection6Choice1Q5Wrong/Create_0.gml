@@ -5,7 +5,7 @@
 char_name = "Chris";
 
 dialogues[0] = "\"Eh... is this the right answer?\" ";
-dialogues[1] = "\"It'll have to do. Moving on to the next question.\" ";
+dialogues[1] = "\"It'll have to do. Now to check my answers...\" ";
 
 dia = array_length(dialogues);
 

@@ -46,6 +46,7 @@ if (option_comitted != -1)
 				//enter code for option 3
 				if(addCarbon)
 				{
+					oLateCondition.lateCheck += 1;
 					oCarbonMeterStory.currentEmissions += 15;
 					addCarbon = false;
 				}

@@ -107,9 +107,5 @@ if (i == 34){
 	char_name = "Chris";
 }
 
-if (i == 34){
-	char_name = "";
-}
-
 index = 0;
 alarm[0] = room_speed * 0.5;

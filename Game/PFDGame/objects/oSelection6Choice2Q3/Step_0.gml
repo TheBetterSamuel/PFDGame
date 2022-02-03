@@ -36,6 +36,7 @@ if (option_comitted != -1)
 				//enter code for option 1
 				if(addCarbon)
 				{
+					oFailCondition.quizPoints += 1;
 					oCarbonMeterStory.currentEmissions -= 5;
 					addCarbon = false;
 				}
@@ -50,7 +51,7 @@ if (option_comitted != -1)
 					oCarbonMeterStory.currentEmissions += 5;
 					addCarbon = false;
 				}
-				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice2Q3Correct);
+				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice2Q3Wrong);
 				break;
 			}
 			case 0:

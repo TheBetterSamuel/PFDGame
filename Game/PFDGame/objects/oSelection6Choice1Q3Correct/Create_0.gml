@@ -5,8 +5,8 @@
 char_name = "Chris";
 
 dialogues[0] = "\"Yeah! I think this is the right answer.\" ";
-dialogues[1] = "\"The average passenger car emits 0.78 pounds of CO2 per mile driven. Therefore, it is more sustainable to either carpool.\" ";
-dialogues[2] = "\"Use mass transit, (public transport) or walk and cycle as much as possible as it reduces carbon emission by a great amount.\" ";
+dialogues[1] = "\"Using a fan to cool yourself down generates far less heat when compared to the other activities that require a large generation of energy.\" ";
+dialogues[2] = "\"Which in return contributes to more heat produced. For example, CFC turning on the A/C and the fridge can cause thinning of the ozone layer.\" ";
 
 dia = array_length(dialogues);
 

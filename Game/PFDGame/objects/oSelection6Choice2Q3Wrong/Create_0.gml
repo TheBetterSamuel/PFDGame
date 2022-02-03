@@ -4,8 +4,8 @@
 
 char_name = "Chris";
 
-dialogues[0] = "\"Eh... is this the right answer?\" ";
-dialogues[1] = "\"It'll have to do. Moving on to the next question.\" ";
+dialogues[0] = "\"Uh... is this the right answer?\" ";
+dialogues[1] = "\"It'll have to do. For now..\" ";
 
 dia = array_length(dialogues);
 

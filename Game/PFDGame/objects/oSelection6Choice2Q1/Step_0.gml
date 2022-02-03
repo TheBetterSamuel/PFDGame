@@ -36,6 +36,7 @@ if (option_comitted != -1)
 				//enter code for option 1
 				if(addCarbon)
 				{
+					oFailCondition.quizPoints += 1;
 					oCarbonMeterStory.currentEmissions -= 5;
 					addCarbon = false;
 				}

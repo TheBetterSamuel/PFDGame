@@ -6,7 +6,7 @@ char_name = "Chris";
 
 dialogues[0] = "\"Yeah! I think this is the right answer.\" ";
 dialogues[1] = "\"The average passenger car emits 0.78 pounds of CO2 per mile driven. Therefore, it is more sustainable to either carpool.\" ";
-dialogues[2] = "\"Use mass transit, (public transport) or walk and cycle as much as possible as it reduces carbon emission by a great amount.\" ";
+dialogues[2] = "\"Use mass transit, (Public transport) or walk and cycle as much as possible as it reduces carbon emission by a great amount.\" ";
 
 dia = array_length(dialogues);
 

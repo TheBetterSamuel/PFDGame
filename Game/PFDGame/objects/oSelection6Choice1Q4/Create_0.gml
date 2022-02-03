@@ -1,15 +1,12 @@
 /// @description set variables
-audio_play_sound(sQuizBgm,1000,true);
-audio_sound_gain(sQuizBgm,0.01,0);
-audio_sound_gain(sQuizBgm,0.4*soundLibrary.volume,1);
 
 ///Choice 1 Aftermath Quiz Question 4
 
 //change to set texts
 mainText = "What are greenhouse gases?";
-options[2] = "Gases that are pumped into greenhouses";
-options[1] = "Gases that greenhouses produce";
-options[0] = "Gases in the atmosphere that trap heat and redirect it back to Earth";
+options[2] = "Gases in greenhouses";
+options[1] = "Gases greenhouses' produce";
+options[0] = "Gases in the atmosphere";
 option_size = array_length_1d(options);
 
 //sets color of buttons

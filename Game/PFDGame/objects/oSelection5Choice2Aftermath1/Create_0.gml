@@ -7,7 +7,7 @@ audio_sound_gain(sTaxiLate,0.6*soundLibrary.volume,1);
 
 char_name = "";
 
-dialogues[0] = "- October 30th 2047, 8:10 AM -";
+dialogues[0] = "- October 31st 2047, 8:10 AM -";
 dialogues[1] = "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.";
 dialogues[2] = "\"You have got to be kidding me...\" ";
 dialogues[3] = "\"A TRAFFIC JAM!?!?!?!?\" ";

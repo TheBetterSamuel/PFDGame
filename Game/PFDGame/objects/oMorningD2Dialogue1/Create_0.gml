@@ -8,7 +8,7 @@ audio_sound_gain(sMorningSounds,0.6,1);
 char_name = "";
 
 dialogues[0] = "House (Bedroom)";
-dialogues[1] = " October 31st 2047, 7:15 AM -";
+dialogues[1] = "- October 31st 2047, 7:15 AM -";
 dialogues[2] = " *tap*   *tap*   *tap*   *smack*";
 dialogues[3] = "*SMACK*";
 dialogues[4] = "\"Ughh..... Morning already... *YAWN*\" ";

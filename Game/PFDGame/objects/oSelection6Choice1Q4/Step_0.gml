@@ -36,10 +36,10 @@ if (option_comitted != -1)
 				//enter code for option 1
 				if(addCarbon)
 				{
-					oCarbonMeterStory.currentEmissions -= 5;
+					oCarbonMeterStory.currentEmissions += 3;
 					addCarbon = false;
 				}
-				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q4Correct);
+				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q4Wrong);
 				break;
 			}
 			case 1:
@@ -47,7 +47,7 @@ if (option_comitted != -1)
 				//enter code for option 2
 				if(addCarbon)
 				{
-					oCarbonMeterStory.currentEmissions += 5;
+					oCarbonMeterStory.currentEmissions += 3;
 					addCarbon = false;
 				}
 				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q4Wrong);
@@ -58,10 +58,11 @@ if (option_comitted != -1)
 				//enter code for option 3
 				if(addCarbon)
 				{
-					oCarbonMeterStory.currentEmissions += 5;
+					oFailCondition.quizPoints += 1;
+					oCarbonMeterStory.currentEmissions -= 3;
 					addCarbon = false;
 				}
-				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q4Wrong);
+				scrSlideTransition(TRANS_MODE.GOTO, rSelection6Choice1Q4Correct);
 				break;
 			}
 		}

@@ -6,7 +6,7 @@
 char_name = "";
 
 dialogues[0] = "- School (Classroom) - ";
-dialogues[1] = "- October 30th 2047, 8:15 AM -";
+dialogues[1] = "- October 31st 2047, 8:15 AM -";
 dialogues[2] = "As I entered the classroom, I realised that there were more people here than usual at this time of day.";
 dialogues[3] = "Most of the students present were at their desks examining their individual study materials with only a few standing about conversing with their friends.";
 dialogues[4] = "\"Hmm, that's rare. Everybody's preparing for the quiz. Was this quiz particularly important or something?\" ";

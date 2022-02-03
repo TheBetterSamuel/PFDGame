@@ -5,8 +5,10 @@
 char_name = "Chris";
 
 dialogues[0] = "\"Yeah! I think this is the right answer.\" ";
-dialogues[1] = "\"The average passenger car emits 0.78 pounds of CO2 per mile driven. Therefore, it is more sustainable to either carpool.\" ";
-dialogues[2] = "\"Use mass transit, (public transport) or walk and cycle as much as possible as it reduces carbon emission by a great amount.\" ";
+dialogues[1] = "\"Out of all these activities, fossil fuel power plants produce the most, as it is the burning of fossil fuels on a large scale.\" ";
+dialogues[2] = "\"All this along with the fact that fossil fuels are one of the dirtiest forms of energy (Produces the most emissions, which are the by-products of combustion).\" ";
+dialogues[3] = "\"Driving a car also uses the method of burning fossil fuels, but a singular car is of a smaller scale than a power plant.\" ";
+dialogues[4] = "\"Nuclear power is also one of the cleanest forms of energy, as it doesn't use combustion and therefore, doesn't produce carbon emissions.\" ";
 
 dia = array_length(dialogues);
 
