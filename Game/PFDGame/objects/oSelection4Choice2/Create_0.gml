@@ -27,8 +27,6 @@ dialogues[21] = "I quickly turned off my laptop and began getting ready for slee
 dialogues[22] = "I turned off all the lights in my room and laid down on my bed. ";
 dialogues[23] = "As I lay there, my eyes become heavier as time goes on. ";
 dialogues[24] = "Eventually... blank... ";
-dialogues[25] = "We have come to the end of the prototype of the game. We hope you enjoyed the game so far and have learnt something new from it. ";
-dialogues[26] = "- To Be Continued - ";
 
 dia = array_length(dialogues);
 

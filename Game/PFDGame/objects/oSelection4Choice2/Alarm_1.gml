@@ -13,8 +13,5 @@ if (i == 19){
 	char_name = "Chris";
 }
 
-if (i == 25){
-	char_name = "Developers";
-}
 
 alarm[0] = room_speed * 0.5;

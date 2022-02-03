@@ -1,5 +1,6 @@
 /// @description assign variables 
-
+audio_sound_gain(sNightimeCalmBgm,0.01,0);
+audio_sound_gain(sNightimeCalmBgm,0.40,1);
 
 /// Day 2  after the quiz 
 

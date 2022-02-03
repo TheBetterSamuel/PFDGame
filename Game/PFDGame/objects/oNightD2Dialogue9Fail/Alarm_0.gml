@@ -28,7 +28,8 @@ if (i < dia)
 }
 else
 {
-	scrSlideTransition(TRANS_MODE.GOTO, rSelection7);
+	audio_sound_gain(sNightimeCalmBgm,0,500);
+	scrSlideTransition(TRANS_MODE.GOTO, rTrueBadEnding);
 }
 
 

@@ -39,7 +39,7 @@ if ((menu_x > gui_width + 150) && (menu_comitted != -1))
 		{
 			soundLibrary.setVolume = false;
 			audio_sound_gain(bgm1,0,500);
-			scrSlideTransition(TRANS_MODE.GOTO, rMorningD2Dialogue1);//rDialogue1
+			scrSlideTransition(TRANS_MODE.GOTO, rDialogue1);//rDialogue1
 			break;
 		}
 		case 3: scrSlideTransition(TRANS_MODE.GOTO, rTutorial); break;
