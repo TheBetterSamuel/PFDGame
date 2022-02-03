@@ -1,5 +1,5 @@
 /// @description assign variables
-
+audio_sound_gain(sDailyMorningAfternoonBgm,0.6,1);
 
 ///After choosing the taxi pepega 
 

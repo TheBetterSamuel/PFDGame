@@ -2,7 +2,7 @@
 
 ///Chose the correct answer for Question 1 (Late)
 
-char_name = "";
+char_name = "Chris";
 
 dialogues[0] = "\"Yeah! I think this is the right answer.\" ";
 dialogues[1] = "\"Meat products have larger carbon footprints per calorie than grain or vegetable products because of the inefficient conversion of plant to animal energy.\" ";
