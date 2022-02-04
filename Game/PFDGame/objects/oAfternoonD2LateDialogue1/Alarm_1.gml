@@ -26,6 +26,7 @@ if (i == 9){
 }
 
 if (i == 10){
+	drawChris = false;
 	drawChris1 = true;
 	char_name = "Chris";
 }
@@ -35,11 +36,12 @@ if (i == 11){
 }
 
 if (i == 12){
+	drawChris1 = false;
+	drawChris = true;
 	char_name = "Chris";
 }
 
 if (i == 14){
-	drawChris = true; 
 	char_name = "Teacher";
 }
 
@@ -52,6 +54,7 @@ if (i == 16){
 }
 
 if (i == 17){
+	drawChris = false;
 	drawChris1 = true;
 	char_name = "Chris";
 }
@@ -89,6 +92,9 @@ if (i == 25){
 	char_name = "Teacher";
 }
 
+if (i == 26){
+	char_name = "Teacher";
+}
 
 if (i == 27){
 	char_name = "Chris";
@@ -115,6 +121,8 @@ if (i == 33){
 }
 
 if (i == 34){
+	drawChris1 = false;
+	drawChris = true;
 	char_name = "Chris";
 }
 

@@ -9,7 +9,7 @@ if (drawChris){
 }
 
 if (drawChris1){
-	draw_sprite_ext(Chris_Happy,0,200,235, 5,5,0,c_white,1);
+	draw_sprite_ext(Chris_Happy,0,725,235, 5,5,0,c_white,1);
 }
 
 draw_text_transformed(x+margin, y, char_name, 1.5, 1.5, 0)
