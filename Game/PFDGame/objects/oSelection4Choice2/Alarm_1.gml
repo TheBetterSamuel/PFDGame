@@ -2,6 +2,7 @@ i++;
 index = 0;
 
 if (i == 2){
+	drawChris = true; 
 	char_name = "Article";
 }
 

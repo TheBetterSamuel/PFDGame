@@ -23,3 +23,4 @@ txt = " ";
 
 drawChris = false; 
 drawConnor = false; 
+drawConnor1 = false; 

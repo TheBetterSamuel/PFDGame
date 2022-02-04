@@ -27,4 +27,4 @@ boxLength = 1550;
 lineHeight = font_get_size(fDialogue) * 1.5;
 txt = " ";
 
-drawChris = true; 
+drawChris = false; 

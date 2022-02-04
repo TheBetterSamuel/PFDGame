@@ -1,7 +1,13 @@
 i++;
 index = 0;
 
+if (i == 1){
+	
+	drawChris = true;
+}
+
 if (i == 3){
+	
 	char_name = "";
 }
 

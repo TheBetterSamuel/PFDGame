@@ -1,4 +1,10 @@
 i++;
+
+if (i == 2){
+	drawChris = true; 
+	char_name = "Chris";
+}
+
 if (i == 3){
 	char_name = "Class";
 }

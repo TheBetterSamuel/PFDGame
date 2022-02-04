@@ -2,10 +2,12 @@ i++;
 index = 0;
 
 if (i == 3){
+	drawChris1 = true; 
 	char_name = "Article";
 }
 
 if (i == 7){
+	drawChris = true; 
 	char_name = "Chris";
 }
 

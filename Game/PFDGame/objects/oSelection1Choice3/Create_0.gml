@@ -4,7 +4,7 @@
 audio_sound_gain(sDailyMorningAfternoonBgm,0.01,0);
 audio_sound_gain(sDailyMorningAfternoonBgm,0.6,1);
 
-char_name = "Keisuke";
+char_name = "Chris" 
 //dialogues[0] = "\"\" ";
 dialogues[0] = "\"If I take the taxi, doubling with heading out earlier than usual, I can read the light novel I bought recently but had no time to read in peace! Since practically nobody shows up to class early.\" ";
 dialogues[1] = "\"Sheeeeesh I'm great at time management.\" ";
@@ -24,3 +24,5 @@ margin = 50;
 boxLength = 1550;
 lineHeight = font_get_size(fDialogue) * 1.5;
 txt = " ";
+
+drawChris = false; 

@@ -1,6 +1,10 @@
 i++;
 index = 0;
 
+if (i == 2){
+	drawChris = true;
+}
+
 if (i == 3){
 	char_name = "Shopkeeper Lady";
 }

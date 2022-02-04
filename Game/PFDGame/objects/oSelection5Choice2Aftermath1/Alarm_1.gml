@@ -2,6 +2,12 @@ i++;
 index = 0;
 
 if (i ==2){
+	drawChris1 = true; 
+	char_name = "Chris";
+}
+
+if (i ==8){
+	drawChris = true; 
 	char_name = "Chris";
 }
 

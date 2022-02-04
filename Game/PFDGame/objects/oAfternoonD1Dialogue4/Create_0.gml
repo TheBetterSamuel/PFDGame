@@ -54,3 +54,4 @@ txt = " ";
 drawChris = false; 
 drawChris1 = false; 
 drawConnor = false;
+drawConnor1 = false; 

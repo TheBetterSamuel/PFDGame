@@ -1,4 +1,9 @@
 i++;
+
+if (i == 0){
+	drawChris = true; 
+	char_name = "Chris";
+}
 if (i == 2){
 	char_name = "Article";
 }

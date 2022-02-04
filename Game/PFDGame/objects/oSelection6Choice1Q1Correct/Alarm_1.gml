@@ -1,11 +1,8 @@
 i++;
-if (i==0){
-	drawChris1 = true; 
-	char_name = "Chris"
-}
 
-if (i==1){
-	drawChris2 = true; 
+
+if (i == 1){
+	drawChris = true; 
 	char_name = "Chris"
 }
 

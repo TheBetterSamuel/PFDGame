@@ -1,11 +1,13 @@
 i++;
 index = 0;
 if (i == 1){
+	drawConnor = true;
 	char_name = "Connor";
 }
 
 if (i == 2){
-	char_name = "Connor";
+	drawChris = true; 
+	char_name = "Chris";
 }
 
 if (i == 4){

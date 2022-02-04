@@ -2,6 +2,7 @@ i++;
 index = 0;
 
 if (i ==2){
+	drawChris1 = true;
 	char_name = "Chris";
 }
 
@@ -23,6 +24,11 @@ if (i ==8){
 if (i ==10){
 	char_name = "Chris";
 }
+
+if (i ==15){
+	drawChris = true;
+	char_name = "Chris";
+} 
 
 if (i ==17){
 	char_name = "Teacher";

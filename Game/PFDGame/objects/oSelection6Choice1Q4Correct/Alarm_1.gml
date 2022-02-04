@@ -1,4 +1,10 @@
 i++;
+
+if (i == 1){
+	drawChris = true; 
+	char_name = "Chris" 
+}
+
 index = 0;
 
 
