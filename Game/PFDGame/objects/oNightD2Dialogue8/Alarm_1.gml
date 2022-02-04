@@ -1,6 +1,7 @@
 i++;
 
 if (i == 2){
+	drawChris = true;
 	char_name = "Chris";
 }
 
@@ -65,6 +66,11 @@ if (i == 35){
 }
 
 if (i == 36){
+	char_name = "Chris";
+}
+
+if (i == 36){
+	drawChris1 = true;
 	char_name = "Chris";
 }
 

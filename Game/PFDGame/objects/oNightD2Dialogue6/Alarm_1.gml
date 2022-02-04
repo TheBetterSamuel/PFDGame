@@ -1,6 +1,7 @@
 i++;
 
 if (i == 2){
+	drawChris = true; 
 	char_name = "Chris";
 }
 

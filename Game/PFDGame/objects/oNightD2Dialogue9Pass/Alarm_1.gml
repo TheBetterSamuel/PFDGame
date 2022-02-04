@@ -17,7 +17,8 @@ if (i == 9){
 	char_name = "Connor";
 }
 
-if (i == 13){
+if (i == 10){
+	drawChris1 = true;
 	char_name = "Chris";
 }
 
