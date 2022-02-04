@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Connor_skeptical_",
+    "path": "sprites/Connor_skeptical_/Connor_skeptical_.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
