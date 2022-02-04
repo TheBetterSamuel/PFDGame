@@ -28,7 +28,7 @@ if (i < dia)
 }
 else
 {
-	scrSlideTransition(TRANS_MODE.GOTO, rMenu);
+	scrSlideTransition(TRANS_MODE.GOTO, rTrueGoodEnding3);
 }
 
 

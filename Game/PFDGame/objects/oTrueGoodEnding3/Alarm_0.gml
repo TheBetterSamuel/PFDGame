@@ -29,7 +29,7 @@ if (i < dia)
 else
 {
 	instance_destroy(oCarbonMeterStory);
-	audio_sound_gain(sDialogue1,0,500);
+	audio_sound_gain(sDailyMorningAfternoonBgm,0,500);
 	scrSlideTransition(TRANS_MODE.GOTO, rMenu);
 }
 

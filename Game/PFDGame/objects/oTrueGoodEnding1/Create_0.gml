@@ -1,5 +1,7 @@
 /// @description assign variables 
-
+audio_play_sound(sDailyMorningAfternoonBgm,1000,true);
+audio_sound_gain(sDailyMorningAfternoonBgm,0.01,0);
+audio_sound_gain(sDailyMorningAfternoonBgm,0.6 * soundLibrary.volume,1);
 
 /// Day 2  after the quiz 
 
@@ -16,22 +18,6 @@ dialogues[7] = "After shooting out of my bed, I immediately ran towards the dire
 dialogues[8] = "I then quickly washed my face and did some rushed brushing of my teeth to make up for lost time..";
 dialogues[9] = "After brushing my teeth I immediately bolted to my room once more to change into my uniform.";
 dialogues[10] = "I dressed myself in my uniform at a speed that even shocked myself.. Grabbed my school bag and bolted out of my room to the living room.";
-dialogues[11] = "After running to the living room, a figure spoke out to me.";
-dialogues[12] = "\"Ah you’re finally awake..\" ";
-dialogues[13] = "It was my mother.. She was busy in the kitchen doing something...";
-dialogues[14] = "\"Why didn’t you wake me up!\" ";
-dialogues[15] = "\"I tried to! I even shook you to try and wake you..! You even responded to me.. Multiple times!\" ";
-dialogues[16] = "\"Ahh..! Wait, why are you in the kitchen at eight in the morning??\" ";
-dialogues[17] = "\"I’m making you lunch. I’ve already done it, it’s over there.\" ";
-dialogues[18] = "She pointed to a table with a rectangle plastic box.";
-dialogues[19] = "\"You just got out of the hospital like a week, plus ago! You should be resting!\" ";
-dialogues[20] = "\"All I’ve been doing is lay down or sleep.. If I don’t get up and move a little, I’ll turn into a vegetable..\" ";
-dialogues[21] = "\"Besides.. I’m starting to feel better now. This much won’t kill me.\" ";
-dialogues[22] = "\"Says the person that gave me a scare last month.\" ";
-dialogues[23] = "\"It’s okay.. Your mother is not as weak as you think.\" ";
-dialogues[24] = "\"Ahh..! Whatever, I need to get going now.! I’m going to be late!\" ";
-dialogues[25] = "I grabbed the lunch box with the lunch that she prepared for me and placed it in my bag.";
-dialogues[26] = "I then quickly proceeded out of the house. ";
 
 
 
