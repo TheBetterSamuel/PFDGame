@@ -8,5 +8,9 @@ if (drawChris){
 	draw_sprite_ext(Chris_Neutral,0,200,235, 5,5,0,c_white,1);
 }
 
+if (drawChris1){
+	draw_sprite_ext(Chris_Happy,0,200,235, 5,5,0,c_white,1);
+}
+
 draw_text_transformed(x+margin, y, char_name, 1.5, 1.5, 0)
 draw_text_ext(x + margin, y + (1.5 * lineHeight), txt, lineHeight, boxLength - (2 * margin));

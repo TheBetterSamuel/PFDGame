@@ -4,6 +4,12 @@ if (i == 2){
 	char_name = "Chris";
 }
 
+if (i == 20){
+	drawChris = false;
+	drawChris1 = true;
+	char_name = "Chris";
+}
+
 if (i == 23){
 	char_name = "";
 }

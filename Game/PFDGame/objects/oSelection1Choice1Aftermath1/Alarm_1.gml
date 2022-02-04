@@ -5,7 +5,13 @@ if (i == 2){
 }
 
 if (i == 4){
+	drawChris = false; 
 	drawChris1 = true;
+	char_name = "Chris";
+}
+
+if (i == 7){
+	drawChris = true;
 	char_name = "Chris";
 }
 
