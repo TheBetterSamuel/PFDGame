@@ -5,6 +5,7 @@ if (i == 2){
 }
 
 if (i == 3){
+	drawChris = true; 
 	char_name = "Chris";
 }
 
@@ -27,3 +28,4 @@ if (i == 8){
 
 index = 0;
 alarm[0] = room_speed * 0.5;
+
