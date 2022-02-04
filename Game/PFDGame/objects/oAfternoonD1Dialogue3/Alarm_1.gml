@@ -4,27 +4,33 @@ if (i == 0){
 	char_name = "Connor";
 }
 
-if (i == 2){
+if (i == 1){
+	drawConnor1 = false; 
 	drawChris = true; 
 	char_name = "Chris";
 }
 
 if (i == 3){
+	drawChris = false;
 	drawConnor = true;
 	char_name = "Connor";
 }
 
 if (i == 4){
+	drawConnor = false; 
 	drawChris = true; 
 	char_name = "Chris";
 }
 
 if (i == 5){
-	drawConnor = true;
+	drawChris = false; 
+	drawConnor = true; 
 	char_name = "Connor";
 }
 
+
 if (i == 6){
+	drawConnor = false;
 	drawChris = true;
 	char_name = "Chris";
 }

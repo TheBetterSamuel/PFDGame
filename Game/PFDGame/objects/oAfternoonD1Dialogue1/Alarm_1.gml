@@ -9,32 +9,32 @@ if (i == 4){
 }
 
 if (i == 5){
-	drawChris = true;
+	
 	char_name = "Chris";
 }
 
 if (i == 12){
-	drawChris = true; 
+	drawChris = true;  
 	char_name = "Chris";
 }
 
 if (i == 13){
+	drawChris = false; 
 	drawConnor1 = true; 
 	char_name = "Connor";
 }
 
-if (i == 14){
-	drawChris = true; 
+
+
+if (i == 15){
+	drawConnor1 = false;  
+	drawChris = true;
 	char_name = "Chris";
 }
 
-if (i == 15){
-	drawConnor = true; 
-	char_name = "Connor";
-}
-
 if (i == 16){
-	drawChris = true; 
+	drawChris = false;
+	drawConnor = true; 
 	char_name = "Chris";
 }
 
