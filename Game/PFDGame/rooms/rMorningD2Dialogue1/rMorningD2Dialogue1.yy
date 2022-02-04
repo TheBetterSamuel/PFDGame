@@ -15,7 +15,6 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oMorningD2Dialogue1","path":"objects/oMorningD2Dialogue1/oMorningD2Dialogue1.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":768.0,"resourceVersion":"1.0","name":"inst_28FE9E44_1","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"oCarbonMeterStory","path":"objects/oCarbonMeterStory/oCarbonMeterStory.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1184.0,"y":96.0,"resourceVersion":"1.0","name":"inst_2F126EA_1","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"sprDialogueBox","path":"sprites/sprDialogueBox/sprDialogueBox.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":736.0,"resourceVersion":"1.0","name":"graphic_6D99F118_1","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -28,7 +27,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_28FE9E44_1","path":"rooms/rMorningD2Dialogue1/rMorningD2Dialogue1.yy",},
-    {"name":"inst_2F126EA_1","path":"rooms/rMorningD2Dialogue1/rMorningD2Dialogue1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
