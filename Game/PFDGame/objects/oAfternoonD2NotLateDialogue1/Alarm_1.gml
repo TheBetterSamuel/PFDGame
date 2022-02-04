@@ -74,25 +74,17 @@ if (i == 20){
 	char_name = "Connor";
 }
 
-if (i == 12){
+if (i == 21){
 	drawChris = true; 
 	char_name = "Chris";
 }
 
-if (i == 11){
+if (i == 22){
 	drawConnor = true; 
 	char_name = "Connor";
 }
 
-if (i == 12){
-	drawChris = true; 
-	char_name = "Chris";
-}
 
-if (i == 11){
-	drawConnor = true; 
-	char_name = "Connor";
-}
 
 index = 0;
 alarm[0] = room_speed * 0.5;

@@ -60,7 +60,7 @@ if (i == 17){
 }
 
 if (i == 18){
-	drawChris = true;
+	drawChris1 = true;
 	char_name = "Chris";
 }
 
@@ -105,12 +105,12 @@ if (i == 28){
 }
 
 if (i == 29){
-	drawConnor = true;
+	drawConnor1 = true;
 	char_name = "Connor";
 }
 
 if (i == 30){
-	drawChris = true;
+	drawChris1 = true;
 	char_name = "Chris";
 }
 

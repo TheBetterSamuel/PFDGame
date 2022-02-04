@@ -5,85 +5,119 @@ if (i == 2){
 	char_name = "Chris";
 }
 
-if (i == 5){
-	drawConnor = true; 
-	char_name = "Connor";
+if (i == 4){
+	char_name = "Teacher";
 }
 
 if (i == 6){
-	drawChris = true;
+	char_name = "Chris";
+}
+
+if (i == 7){
+	char_name = "Teacher";
+}
+
+if (i == 8){
 	char_name = "Chris";
 }
 
 if (i == 9){
-	drawConnor = true; 
-	char_name = "Connor";
+	char_name = "Teacher";
 }
 
-if (i == 13){
-	drawChris = true;
+if (i == 10){
+	drawChris1 = true;
+	char_name = "Chris";
+}
+
+if (i == 11){
+	char_name = "Teacher";
+}
+
+if (i == 12){
 	char_name = "Chris";
 }
 
 if (i == 14){
-	drawConnor = true; 
-	char_name = "Connor";
+	drawChris = true; 
+	char_name = "Teacher";
 }
 
 if (i == 15){
-	drawChris = true;
+	char_name = "Chris";
+}
+
+if (i == 16){
+	char_name = "Teacher";
+}
+
+if (i == 17){
+	drawChris1 = true;
+	char_name = "Chris";
+}
+
+if (i == 18){
 	char_name = "Chris";
 }
 
 if (i == 19){
-	drawConnor = true; 
-	char_name = "Connor";
+	char_name = "Teacher";
 }
 
 if (i == 20){
-	drawChris = true;
 	char_name = "Chris";
 }
 
-if (i == 26){
-	drawConnor = true; 
-	char_name = "Connor";
+if (i == 21){
+	char_name = "Teacher";
 }
 
+if (i == 22){
+	char_name = "Chris";
+}
+
+if (i == 23){
+	char_name = "Teacher";
+}
+
+
+if (i == 24){
+	char_name = "Chris";
+}
+
+if (i == 25){
+	char_name = "Teacher";
+}
+
+
 if (i == 27){
-	drawChris = true;
 	char_name = "Chris";
 }
 
 if (i == 28){
-	drawConnor = true; 
-	char_name = "Connor";
+	char_name = "Teacher";
 }
 
 if (i == 29){
-	drawChris = true;
 	char_name = "Chris";
 }
 
 if (i == 30){
-	drawConnor = true; 
-	char_name = "Connor";
+	char_name = "Teacher";
+}
+
+if (i == 32){
+	char_name = "Chris";
+}
+
+if (i == 33){
+	char_name = "Teacher";
 }
 
 if (i == 34){
-	drawChris = true;
 	char_name = "Chris";
 }
 
-if (i == 35){
-	drawConnor = true; 
-	char_name = "Connor";
-}
-
-if (i == 36){
-	drawChris = true;
-	char_name = "Chris";
-}
 
 index = 0;
 alarm[0] = room_speed * 0.5;

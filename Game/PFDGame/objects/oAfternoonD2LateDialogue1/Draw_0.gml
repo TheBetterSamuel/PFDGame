@@ -8,6 +8,10 @@ if (drawChris){
 	draw_sprite_ext(Chris_Neutral,0,200,235, 5,5,0,c_white,1);
 }
 
+if (drawChris1){
+	draw_sprite_ext(Chris_Shocked,0,200,235, 5,5,0,c_white,1);
+}
+
 if (drawConnor){
 	draw_sprite_ext(Connor_Neutral,0,200,235, 5,5,0,c_white,1);
 }

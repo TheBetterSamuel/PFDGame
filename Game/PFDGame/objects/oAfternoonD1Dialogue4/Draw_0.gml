@@ -8,16 +8,16 @@ if (drawChris){
 	draw_sprite_ext(Chris_Neutral,0,200,235, 5,5,0,c_white,1);
 }
 
-if (drawChris){
-	draw_sprite_ext(Chris_Neutral,0,200,235, 5,5,0,c_white,1);
+if (drawChris1){
+	draw_sprite_ext(Chris_Shocked,0,200,235, 5,5,0,c_white,1);
 }
 
 if (drawConnor){
 	draw_sprite_ext(Connor_Neutral,0,200,235, 5,5,0,c_white,1);
 }
 
-if (drawConnor){
-	draw_sprite_ext(Connor_Neutral,0,200,235, 5,5,0,c_white,1);
+if (drawConnor1){
+	draw_sprite_ext(Connor_Happy,0,200,235, 5,5,0,c_white,1);
 }
 
 draw_text_transformed(x+margin, y, char_name, 1.5, 1.5, 0)
