@@ -34,3 +34,4 @@ else
 
 
 // if we're at the end of the sentence, pause and restart the game
+drawChris = false; 

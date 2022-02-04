@@ -30,15 +30,7 @@ dialogues[18] = "\"It's been a day but I still haven't gotten over that experien
 dialogues[19] = "\"If I had this crazy power, I wouldn't be just an average student not doing anything in particular with my life.\" ";
 dialogues[20] = "\"Imagine he was correct though, how messed up would that be, having the fate of the whole world on you without you knowing.\" ";
 dialogues[21] = "After making my bed, I placed my phone on the table and walked straight to the bathroom to wash my face and brush my teeth. ";
-dialogues[22] = "After making my bed, I placed my phone on the table and walked straight to the bathroom to wash my face and brush my teeth. ";
-dialogues[23] = "After making my bed, I placed my phone on the table and walked straight to the bathroom to wash my face and brush my teeth. ";
-dialogues[24] = "After making my bed, I placed my phone on the table and walked straight to the bathroom to wash my face and brush my teeth. ";
-dialogues[25] = "After making my bed, I placed my phone on the table and walked straight to the bathroom to wash my face and brush my teeth. ";
-dialogues[26] = "After making my bed, I placed my phone on the table and walked straight to the bathroom to wash my face and brush my teeth. ";
-dialogues[27] = "After making my bed, I placed my phone on the table and walked straight to the bathroom to wash my face and brush my teeth. ";
-dialogues[28] = "After making my bed, I placed my phone on the table and walked straight to the bathroom to wash my face and brush my teeth. ";
-dialogues[29] = "After making my bed, I placed my phone on the table and walked straight to the bathroom to wash my face and brush my teeth. ";
-dialogues[30] = "After making my bed, I placed my phone on the table and walked straight to the bathroom to wash my face and brush my teeth. ";
+
 
 dia = array_length(dialogues);
 
@@ -50,3 +42,5 @@ margin = 50;
 boxLength = 1550;
 lineHeight = font_get_size(fDialogue) * 1.5;
 txt = " ";
+
+drawChris = false; 

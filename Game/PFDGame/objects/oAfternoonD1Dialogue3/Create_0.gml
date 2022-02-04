@@ -1,6 +1,6 @@
 /// @description assign variables
 
-char_name = "Fumihito";
+char_name = "Connor";
 //dialogues[0] = "\"\" ";
 dialogues[0] = "\"Damn we got unlucky, looks like there aren't any seats around.\" ";
 dialogues[1] = "After a brief comb of the surroundings. He was right. There aren't any seats that are free. ";
@@ -20,3 +20,6 @@ margin = 50;
 boxLength = 1550;
 lineHeight = font_get_size(fDialogue) * 1.5;
 txt = " ";
+
+drawChris = false; 
+drawConnor = false; 

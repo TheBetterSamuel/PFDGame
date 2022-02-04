@@ -3,6 +3,7 @@ if (i == 3){
 	char_name = "Class";
 }
 if (i == 4){
+	drawChris = true; 
 	char_name = "Chris";
 }
 if (i == 5){

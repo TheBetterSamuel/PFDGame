@@ -57,3 +57,6 @@ margin = 50;
 boxLength = 1550;
 lineHeight = font_get_size(fDialogue) * 1.5;
 txt = " ";
+
+drawChris = false; 
+drawConnor = false; 

@@ -1,71 +1,97 @@
 i++;
 
 if (i == 2){
+	drawConnor = true; 
+	char_name = "Connor";
+}
+
+if (i == 3){
+	drawChris = true; 
 	char_name = "Chris";
+}
+
+if (i == 4){
+	drawConnor = true; 
+	char_name = "Connor";
 }
 
 if (i == 5){
-	char_name = "Connor";
+	drawChris = true; 
+	char_name = "Chris";
 }
 
 if (i == 6){
+	drawConnor = true; 
+	char_name = "Connor";
+}
+
+if (i == 7){
+	drawChris = true; 
 	char_name = "Chris";
 }
 
-if (i == 9){
+if (i == 8){
+	drawConnor = true; 
 	char_name = "Connor";
+}
+
+if (i == 10){
+	drawChris = true; 
+	char_name = "Chris";
+}
+
+if (i == 11){
+	drawConnor = true; 
+	char_name = "Connor";
+}
+
+if (i == 12){
+	drawChris = true; 
+	char_name = "Chris";
 }
 
 if (i == 13){
-	char_name = "Chris";
-}
-
-if (i == 14){
+	drawConnor = true; 
 	char_name = "Connor";
 }
 
-if (i == 15){
+if (i == 16){
+	drawChris = true; 
 	char_name = "Chris";
 }
 
-if (i == 19){
+if (i == 17){
+	drawConnor = true; 
 	char_name = "Connor";
+}
+if (i == 18){
+	drawChris = true; 
+	char_name = "Chris";
 }
 
 if (i == 20){
-	char_name = "Chris";
-}
-
-if (i == 26){
+	drawConnor = true; 
 	char_name = "Connor";
 }
 
-if (i == 27){
+if (i == 12){
+	drawChris = true; 
 	char_name = "Chris";
 }
 
-if (i == 28){
+if (i == 11){
+	drawConnor = true; 
 	char_name = "Connor";
 }
 
-if (i == 29){
+if (i == 12){
+	drawChris = true; 
 	char_name = "Chris";
 }
 
-if (i == 30){
+if (i == 11){
+	drawConnor = true; 
 	char_name = "Connor";
-}
-
-if (i == 34){
-	char_name = "Chris";
-}
-
-if (i == 35){
-	char_name = "Connor";
-}
-
-if (i == 36){
-	char_name = "Chris";
 }
 
 index = 0;

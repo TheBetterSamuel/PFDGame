@@ -1,6 +1,6 @@
 i++;
 //if (i == 0){
-//	char_name = "Keisuke";
+//	char_name = "Chris";
 //}
 
 
