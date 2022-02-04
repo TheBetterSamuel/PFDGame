@@ -12,11 +12,12 @@ bottomText = "PRESS ESCAPE TO RETURN TO THE MAIN MENU"
 
 lineHeight = font_get_size(fTutorial) * 1.5;
 
-tutTexts[0] = "Controls: "
+tutTexts[0] = "How to play: "
 tutTexts[1] = "Use Up & Down Arrow / W & S Key to select choices"
 tutTexts[2] = "Use Z or Enter Key to select choice"
 tutTexts[3] = "Use Spacebar to skip text animation"
 tutTexts[4] = "Use the Escape key to skip dialogue sections"
+tutTexts[5] = "Do try and keep the cpntribution levels as low as you can"
 tutTextSize = array_length_1d(tutTexts);
 tutOffest = 300;
 

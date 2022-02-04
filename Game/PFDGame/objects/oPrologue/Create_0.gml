@@ -3,7 +3,7 @@
 
 audio_play_sound(sDialogue1,1000,true);
 audio_sound_gain(sDialogue1,0.01,0);
-audio_sound_gain(sDialogue1,0.3,1);
+audio_sound_gain(sDialogue1,0.3 * soundLibrary.volume,1);
 
 char_name = "???";
 

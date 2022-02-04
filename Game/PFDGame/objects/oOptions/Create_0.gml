@@ -14,5 +14,5 @@ offset = 300;
 
 optionText1 = "Volume"
 
-values1 = 100;
+values1 = 100 * soundLibrary.volume;
 

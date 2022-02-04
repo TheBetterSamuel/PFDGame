@@ -1,6 +1,8 @@
 /// @description controlling the menu
 
 menu_x += (menu_x_target - menu_x) / menu_speed;
+audio_sound_gain(sMenuClick1,0.4 * soundLibrary.volume,0);
+audio_sound_gain(sMenuClick2,0.4 * soundLibrary.volume,0);
 
 if(menu_control)
 {

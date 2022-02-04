@@ -7,3 +7,5 @@ box_X = display_get_gui_width();
 boxMArgin = 50;
 
 lineHeight = font_get_size(fMenu2) * 2;
+
+noteText = "Please try to keep this as low as possible";

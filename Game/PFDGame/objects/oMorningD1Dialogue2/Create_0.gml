@@ -3,7 +3,7 @@
 // Playing morning/afternoon bgm
 audio_play_sound(sDailyMorningAfternoonBgm,1000,true);
 audio_sound_gain(sDailyMorningAfternoonBgm,0.01,0);
-audio_sound_gain(sDailyMorningAfternoonBgm,0.6,1);
+audio_sound_gain(sDailyMorningAfternoonBgm,0.6 * soundLibrary.volume,1);
 
 char_name = "";
 

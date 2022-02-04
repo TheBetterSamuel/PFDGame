@@ -28,3 +28,11 @@ draw_text((box_X - boxMArgin),(boxMArgin) + 3,txt);
 draw_text((box_X - boxMArgin),(boxMArgin) - 3,txt);
 draw_set_color(col);
 draw_text((box_X - boxMArgin),(boxMArgin),txt);
+
+draw_set_color(c_black);
+draw_text_transformed((box_X - boxMArgin) + 3,(boxMArgin + lineHeight),noteText,0.5,0.5,0);
+draw_text_transformed((box_X - boxMArgin) - 3,(boxMArgin + lineHeight),noteText,0.5,0.5,0);
+draw_text_transformed((box_X - boxMArgin),(boxMArgin + lineHeight) + 3,noteText,0.5,0.5,0);
+draw_text_transformed((box_X - boxMArgin),(boxMArgin + lineHeight) - 3,noteText,0.5,0.5,0);
+draw_set_color(col);
+draw_text_transformed((box_X - boxMArgin),(boxMArgin + lineHeight),noteText,0.5,0.5,0);
