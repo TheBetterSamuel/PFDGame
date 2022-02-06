@@ -8,7 +8,7 @@ Emissions is a visual novel that educates users on how their choices affect the 
 |-----|-----|-----|
 |Samuel Kwan|S10203319|Leader|
 |Marcus Hon|S10207469|Developer|
-|Daryl Chong||Developer|
+|Daryl Chong|S10194048D|Developer|
 |Myron Thiang||Developer|
 
 ## Engine and Language
@@ -17,7 +17,7 @@ Emissions is a visual novel that educates users on how their choices affect the 
 
 ## Resources
 ### Songs used (Youtube)
-[![Watch the video](https://img.youtube.com/vi/j1Naz0hEq4U/maxresdefault.jpg)](https://youtu.be/j1Naz0hEq4U)
+[![Watch the video](https://img.youtube.com/vi/WVdeGxiAgXA/maxresdefault.jpg)](https://youtu.be/WVdeGxiAgXA)
 [![Watch the video](https://img.youtube.com/vi/KpcfeMQNXw8/maxresdefault.jpg)](https://youtu.be/KpcfeMQNXw8)
 [![Watch the video](https://img.youtube.com/vi/p1O7tSN5_Co/maxresdefault.jpg)](https://youtu.be/p1O7tSN5_Co)
 [![Watch the video](https://img.youtube.com/vi/f1XzggOFScw/maxresdefault.jpg)](https://youtu.be/f1XzggOFScw)
