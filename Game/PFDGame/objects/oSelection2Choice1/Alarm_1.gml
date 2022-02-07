@@ -6,6 +6,7 @@ if (i == 1){
 }
 
 if (i == 2){
+	drawConnor = false; 
 	drawChris = true; 
 	char_name = "Chris";
 }
