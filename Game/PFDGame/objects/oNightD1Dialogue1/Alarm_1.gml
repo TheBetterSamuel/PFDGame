@@ -1,15 +1,17 @@
 i++;
 if (i == 1){
-	drawChris = true;
+	drawChris1 = true;
 	char_name = "Chris";
 }
 
 if (i == 4){
+	drawChris1 = false;
+	drawChris = true;
 	char_name = "Librarian";
 }
 
 if (i == 5){
-	drawChris = true;
+	
 	char_name = "Chris";
 }
 
@@ -18,7 +20,7 @@ if (i == 6){
 }
 
 if (i == 7){
-	drawChris = true;
+	
 	char_name = "Chris";
 }
 

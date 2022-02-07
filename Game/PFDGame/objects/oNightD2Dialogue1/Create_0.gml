@@ -32,3 +32,4 @@ txt = " ";
 
 
 drawChris = false; 
+drawChris1 = false; 
