@@ -26,6 +26,7 @@ if (i ==10){
 }
 
 if (i ==15){
+	drawChris1 = false;
 	drawChris = true;
 	char_name = "Chris";
 } 

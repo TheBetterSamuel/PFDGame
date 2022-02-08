@@ -3,6 +3,7 @@ index = 0;
 
 if (i ==1){
 	drawChris = true;
+	char_name = "Chris"
 }
 
 if (i ==6){

@@ -6,10 +6,14 @@ if (i == 2){
 }
 
 if (i == 4){
+	drawChris = false;
+	drawChris1 = true; 
 	char_name = "Chris";
 }
 
-if (i == 6){
+if (i == 7){
+	drawChris1 = false;
+	drawChris = true;
 	char_name = "Chris";
 }
 

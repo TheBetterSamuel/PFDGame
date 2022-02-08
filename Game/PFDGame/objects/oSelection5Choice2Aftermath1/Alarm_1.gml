@@ -7,6 +7,7 @@ if (i ==2){
 }
 
 if (i ==8){
+	drawChris1 = false;
 	drawChris = true; 
 	char_name = "Chris";
 }

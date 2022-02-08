@@ -22,7 +22,13 @@ if (i == 6){
 }
 
 if (i == 8){
+	drawChris = false;
+	drawChris1 = true;
 	char_name = "Chris";
+}
+
+if (i == 9){
+	char_name = "";
 }
 
 

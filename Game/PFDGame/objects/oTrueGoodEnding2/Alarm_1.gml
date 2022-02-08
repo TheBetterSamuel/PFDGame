@@ -5,6 +5,7 @@ if (i == 1){
 }
 
 if (i == 3){
+	drawChris1 = true; 
 	char_name = "Chris";
 }
 
@@ -41,6 +42,8 @@ if (i == 12){
 }
 
 if (i == 13){
+	drawChris1 = false;
+	drawChris = true;
 	char_name = "Chris";
 }
 
