@@ -1,4 +1,4 @@
-
+i++;
 
 if (i == 1){
 	char_name = "Mom";
