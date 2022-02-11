@@ -5,15 +5,16 @@ draw_set_color(make_color_rgb(200,200,200));
 draw_set_alpha(1);
 
 if (drawChris){
-	draw_sprite_ext(Chris_Neutral,0,725,235, 5,5,0,c_white,1);
+	draw_sprite_ext(Chris_Neutral,0,725,205, 5,5,0,c_white,1);
 }
 
 if (drawConnor){
-	draw_sprite_ext(Connor_Neutral,0,725,235, 5,5,0,c_white,1);
+	draw_sprite_ext(Connor_Neutral,0,725,205, 5,5,0,c_white,1);
 }
+	
 
 if (drawConnor1){
-	draw_sprite_ext(Connor_Worried,0,725,235, 5,5,0,c_white,1);
+	draw_sprite_ext(Connor_Worried,0,725,205, 5,5,0,c_white,1);
 }
 
 

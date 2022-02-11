@@ -45,4 +45,5 @@ lineHeight = font_get_size(fDialogue) * 1.5;
 txt = " ";
 
 drawChris = false; 
-drawConnor = false; 
+drawConnor = false;
+drawConnor1 = false; 

@@ -1,6 +1,6 @@
 i++;
 
-if (i == 0){
+if (i == 1){
 	drawChris = true; 
 	char_name = "Chris";
 }

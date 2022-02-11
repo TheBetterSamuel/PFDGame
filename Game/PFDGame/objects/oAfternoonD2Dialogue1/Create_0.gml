@@ -77,6 +77,8 @@ txt = " ";
 
 drawChris = false; 
 drawChris1 = false; 
+drawChris2 = false;
+drawChris3 = false;
 
 drawConnor = false; 
 drawConnor1 = false; 
